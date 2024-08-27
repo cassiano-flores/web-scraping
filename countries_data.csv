@@ -1,0 +1,1763 @@
+country,currency,continent,neighbours,timestamp
+Country: Afghanistan,Currency Name: Afghani,Continent: AS,,2024-08-27 00:45:43
+Country: Aland Islands,Currency Name: Euro,Continent: EU,,2024-08-27 00:45:43
+Country: Albania,Currency Name: Lek,Continent: EU,,2024-08-27 00:45:43
+Country: Algeria,Currency Name: Dinar,Continent: AF,,2024-08-27 00:45:43
+Country: American Samoa,Currency Name: Dollar,Continent: OC,,2024-08-27 00:45:43
+Country: Andorra,Currency Name: Euro,Continent: EU,,2024-08-27 00:45:43
+Country: Angola,Currency Name: Kwanza,Continent: AF,,2024-08-27 00:45:43
+Country: Anguilla,Currency Name: Dollar,Continent: NA,,2024-08-27 00:45:43
+Country: Antarctica,Currency Name:,Continent: AN,,2024-08-27 00:45:44
+Country: Antigua and Barbuda,Currency Name: Dollar,Continent: NA,,2024-08-27 00:45:44
+Country: Argentina,Currency Name: Peso,Continent: SA,,2024-08-27 00:45:44
+Country: Armenia,Currency Name: Dram,Continent: AS,,2024-08-27 00:45:44
+Country: Aruba,Currency Name: Guilder,Continent: NA,,2024-08-27 00:45:44
+Country: Australia,Currency Name: Dollar,Continent: OC,,2024-08-27 00:45:44
+Country: Austria,Currency Name: Euro,Continent: EU,,2024-08-27 00:45:44
+Country: Azerbaijan,Currency Name: Manat,Continent: AS,,2024-08-27 00:45:44
+Country: Bahamas,Currency Name: Dollar,Continent: NA,,2024-08-27 00:45:44
+Country: Bahrain,Currency Name: Dinar,Continent: AS,,2024-08-27 00:45:45
+Country: Bangladesh,Currency Name: Taka,Continent: AS,,2024-08-27 00:45:45
+Country: Barbados,Currency Name: Dollar,Continent: NA,,2024-08-27 00:45:45
+Country: Belarus,Currency Name: Ruble,Continent: EU,,2024-08-27 00:45:45
+Country: Belgium,Currency Name: Euro,Continent: EU,,2024-08-27 00:45:45
+Country: Belize,Currency Name: Dollar,Continent: NA,,2024-08-27 00:45:45
+Country: Benin,Currency Name: Franc,Continent: AF,,2024-08-27 00:45:45
+Country: Bermuda,Currency Name: Dollar,Continent: NA,,2024-08-27 00:45:45
+Country: Bhutan,Currency Name: Ngultrum,Continent: AS,,2024-08-27 00:45:45
+Country: Bolivia,Currency Name: Boliviano,Continent: SA,,2024-08-27 00:45:45
+"Country: Bonaire, Saint Eustatius and Saba",Currency Name: Dollar,Continent: NA,,2024-08-27 00:45:46
+Country: Bosnia and Herzegovina,Currency Name: Marka,Continent: EU,,2024-08-27 00:45:46
+Country: Botswana,Currency Name: Pula,Continent: AF,,2024-08-27 00:45:46
+Country: Bouvet Island,Currency Name: Krone,Continent: AN,,2024-08-27 00:45:46
+Country: Brazil,Currency Name: Real,Continent: SA,,2024-08-27 00:45:46
+Country: British Indian Ocean Territory,Currency Name: Dollar,Continent: AS,,2024-08-27 00:45:46
+Country: British Virgin Islands,Currency Name: Dollar,Continent: NA,,2024-08-27 00:45:46
+Country: Brunei,Currency Name: Dollar,Continent: AS,,2024-08-27 00:45:46
+Country: Bulgaria,Currency Name: Lev,Continent: EU,,2024-08-27 00:45:46
+Country: Burkina Faso,Currency Name: Franc,Continent: AF,,2024-08-27 00:45:47
+Country: Burundi,Currency Name: Franc,Continent: AF,,2024-08-27 00:45:47
+Country: Cambodia,Currency Name: Riels,Continent: AS,,2024-08-27 00:45:47
+Country: Cameroon,Currency Name: Franc,Continent: AF,,2024-08-27 00:45:47
+Country: Canada,Currency Name: Dollar,Continent: NA,,2024-08-27 00:45:47
+Country: Cape Verde,Currency Name: Escudo,Continent: AF,,2024-08-27 00:45:47
+Country: Cayman Islands,Currency Name: Dollar,Continent: NA,,2024-08-27 00:45:47
+Country: Central African Republic,Currency Name: Franc,Continent: AF,,2024-08-27 00:45:47
+Country: Chad,Currency Name: Franc,Continent: AF,,2024-08-27 00:45:47
+Country: Chile,Currency Name: Peso,Continent: SA,,2024-08-27 00:45:47
+Country: China,Currency Name: Yuan Renminbi,Continent: AS,,2024-08-27 00:45:48
+Country: Christmas Island,Currency Name: Dollar,Continent: AS,,2024-08-27 00:45:48
+Country: Cocos Islands,Currency Name: Dollar,Continent: AS,,2024-08-27 00:45:48
+Country: Colombia,Currency Name: Peso,Continent: SA,,2024-08-27 00:45:48
+Country: Comoros,Currency Name: Franc,Continent: AF,,2024-08-27 00:45:48
+Country: Cook Islands,Currency Name: Dollar,Continent: OC,,2024-08-27 00:45:48
+Country: Costa Rica,Currency Name: Colon,Continent: NA,,2024-08-27 00:45:48
+Country: Croatia,Currency Name: Kuna,Continent: EU,,2024-08-27 00:45:48
+Country: Cuba,Currency Name: Peso,Continent: NA,,2024-08-27 00:45:48
+Country: Curacao,Currency Name: Guilder,Continent: NA,,2024-08-27 00:45:48
+Country: Cyprus,Currency Name: Euro,Continent: EU,,2024-08-27 00:45:49
+Country: Czech Republic,Currency Name: Koruna,Continent: EU,,2024-08-27 00:45:49
+Country: Democratic Republic of the Congo,Currency Name: Franc,Continent: AF,,2024-08-27 00:45:49
+Country: Denmark,Currency Name: Krone,Continent: EU,,2024-08-27 00:45:49
+Country: Djibouti,Currency Name: Franc,Continent: AF,,2024-08-27 00:45:49
+Country: Dominica,Currency Name: Dollar,Continent: NA,,2024-08-27 00:45:49
+Country: Dominican Republic,Currency Name: Peso,Continent: NA,,2024-08-27 00:45:49
+Country: East Timor,Currency Name: Dollar,Continent: OC,,2024-08-27 00:45:49
+Country: Ecuador,Currency Name: Dollar,Continent: SA,,2024-08-27 00:45:49
+Country: Egypt,Currency Name: Pound,Continent: AF,,2024-08-27 00:45:49
+Country: El Salvador,Currency Name: Dollar,Continent: NA,,2024-08-27 00:45:50
+Country: Equatorial Guinea,Currency Name: Franc,Continent: AF,,2024-08-27 00:45:50
+Country: Eritrea,Currency Name: Nakfa,Continent: AF,,2024-08-27 00:45:50
+Country: Estonia,Currency Name: Euro,Continent: EU,,2024-08-27 00:45:50
+Country: Ethiopia,Currency Name: Birr,Continent: AF,,2024-08-27 00:45:50
+Country: Falkland Islands,Currency Name: Pound,Continent: SA,,2024-08-27 00:45:50
+Country: Faroe Islands,Currency Name: Krone,Continent: EU,,2024-08-27 00:45:50
+Country: Fiji,Currency Name: Dollar,Continent: OC,,2024-08-27 00:45:50
+Country: Finland,Currency Name: Euro,Continent: EU,,2024-08-27 00:45:50
+Country: France,Currency Name: Euro,Continent: EU,,2024-08-27 00:45:51
+Country: French Guiana,Currency Name: Euro,Continent: SA,,2024-08-27 00:45:51
+Country: French Polynesia,Currency Name: Franc,Continent: OC,,2024-08-27 00:45:51
+Country: French Southern Territories,Currency Name: Euro,Continent: AN,,2024-08-27 00:45:51
+Country: Gabon,Currency Name: Franc,Continent: AF,,2024-08-27 00:45:51
+Country: Gambia,Currency Name: Dalasi,Continent: AF,,2024-08-27 00:45:51
+Country: Georgia,Currency Name: Lari,Continent: AS,,2024-08-27 00:45:51
+Country: Germany,Currency Name: Euro,Continent: EU,,2024-08-27 00:45:51
+Country: Ghana,Currency Name: Cedi,Continent: AF,,2024-08-27 00:45:51
+Country: Gibraltar,Currency Name: Pound,Continent: EU,,2024-08-27 00:45:51
+Country: Greece,Currency Name: Euro,Continent: EU,,2024-08-27 00:45:52
+Country: Greenland,Currency Name: Krone,Continent: NA,,2024-08-27 00:45:52
+Country: Grenada,Currency Name: Dollar,Continent: NA,,2024-08-27 00:45:52
+Country: Guadeloupe,Currency Name: Euro,Continent: NA,,2024-08-27 00:45:52
+Country: Guam,Currency Name: Dollar,Continent: OC,,2024-08-27 00:45:52
+Country: Guatemala,Currency Name: Quetzal,Continent: NA,,2024-08-27 00:45:52
+Country: Guernsey,Currency Name: Pound,Continent: EU,,2024-08-27 00:45:52
+Country: Guinea,Currency Name: Franc,Continent: AF,,2024-08-27 00:45:52
+Country: Guinea-Bissau,Currency Name: Franc,Continent: AF,,2024-08-27 00:45:52
+Country: Guyana,Currency Name: Dollar,Continent: SA,,2024-08-27 00:45:53
+Country: Haiti,Currency Name: Gourde,Continent: NA,,2024-08-27 00:45:53
+Country: Heard Island and McDonald Islands,Currency Name: Dollar,Continent: AN,,2024-08-27 00:45:53
+Country: Honduras,Currency Name: Lempira,Continent: NA,,2024-08-27 00:45:53
+Country: Hong Kong,Currency Name: Dollar,Continent: AS,,2024-08-27 00:45:53
+Country: Hungary,Currency Name: Forint,Continent: EU,,2024-08-27 00:45:53
+Country: Iceland,Currency Name: Krona,Continent: EU,,2024-08-27 00:45:53
+Country: India,Currency Name: Rupee,Continent: AS,,2024-08-27 00:45:53
+Country: Indonesia,Currency Name: Rupiah,Continent: AS,,2024-08-27 00:45:53
+Country: Iran,Currency Name: Rial,Continent: AS,,2024-08-27 00:45:53
+Country: Iraq,Currency Name: Dinar,Continent: AS,,2024-08-27 00:45:54
+Country: Ireland,Currency Name: Euro,Continent: EU,,2024-08-27 00:45:54
+Country: Isle of Man,Currency Name: Pound,Continent: EU,,2024-08-27 00:45:54
+Country: Israel,Currency Name: Shekel,Continent: AS,,2024-08-27 00:45:54
+Country: Italy,Currency Name: Euro,Continent: EU,,2024-08-27 00:45:54
+Country: Ivory Coast,Currency Name: Franc,Continent: AF,,2024-08-27 00:45:54
+Country: Jamaica,Currency Name: Dollar,Continent: NA,,2024-08-27 00:45:54
+Country: Japan,Currency Name: Yen,Continent: AS,,2024-08-27 00:45:54
+Country: Jersey,Currency Name: Pound,Continent: EU,,2024-08-27 00:45:54
+Country: Jordan,Currency Name: Dinar,Continent: AS,,2024-08-27 00:45:55
+Country: Kazakhstan,Currency Name: Tenge,Continent: AS,,2024-08-27 00:45:55
+Country: Kenya,Currency Name: Shilling,Continent: AF,,2024-08-27 00:45:55
+Country: Kiribati,Currency Name: Dollar,Continent: OC,,2024-08-27 00:45:55
+Country: Kosovo,Currency Name: Euro,Continent: EU,,2024-08-27 00:45:55
+Country: Kuwait,Currency Name: Dinar,Continent: AS,,2024-08-27 00:45:55
+Country: Kyrgyzstan,Currency Name: Som,Continent: AS,,2024-08-27 00:45:55
+Country: Laos,Currency Name: Kip,Continent: AS,,2024-08-27 00:45:55
+Country: Latvia,Currency Name: Euro,Continent: EU,,2024-08-27 00:45:55
+Country: Lebanon,Currency Name: Pound,Continent: AS,,2024-08-27 00:45:56
+Country: Lesotho,Currency Name: Loti,Continent: AF,,2024-08-27 00:45:56
+Country: Liberia,Currency Name: Dollar,Continent: AF,,2024-08-27 00:45:56
+Country: Libya,Currency Name: Dinar,Continent: AF,,2024-08-27 00:45:56
+Country: Liechtenstein,Currency Name: Franc,Continent: EU,,2024-08-27 00:45:56
+Country: Lithuania,Currency Name: Litas,Continent: EU,,2024-08-27 00:45:56
+Country: Luxembourg,Currency Name: Euro,Continent: EU,,2024-08-27 00:45:56
+Country: Macao,Currency Name: Pataca,Continent: AS,,2024-08-27 00:45:56
+Country: Macedonia,Currency Name: Denar,Continent: EU,,2024-08-27 00:45:56
+Country: Madagascar,Currency Name: Ariary,Continent: AF,,2024-08-27 00:45:56
+Country: Malawi,Currency Name: Kwacha,Continent: AF,,2024-08-27 00:45:57
+Country: Malaysia,Currency Name: Ringgit,Continent: AS,,2024-08-27 00:45:57
+Country: Maldives,Currency Name: Rufiyaa,Continent: AS,,2024-08-27 00:45:57
+Country: Mali,Currency Name: Franc,Continent: AF,,2024-08-27 00:45:57
+Country: Malta,Currency Name: Euro,Continent: EU,,2024-08-27 00:45:57
+Country: Marshall Islands,Currency Name: Dollar,Continent: OC,,2024-08-27 00:45:57
+Country: Martinique,Currency Name: Euro,Continent: NA,,2024-08-27 00:45:57
+Country: Mauritania,Currency Name: Ouguiya,Continent: AF,,2024-08-27 00:45:57
+Country: Mauritius,Currency Name: Rupee,Continent: AF,,2024-08-27 00:45:57
+Country: Mayotte,Currency Name: Euro,Continent: AF,,2024-08-27 00:45:58
+Country: Mexico,Currency Name: Peso,Continent: NA,,2024-08-27 00:45:58
+Country: Micronesia,Currency Name: Dollar,Continent: OC,,2024-08-27 00:45:58
+Country: Moldova,Currency Name: Leu,Continent: EU,,2024-08-27 00:45:58
+Country: Monaco,Currency Name: Euro,Continent: EU,,2024-08-27 00:45:58
+Country: Mongolia,Currency Name: Tugrik,Continent: AS,,2024-08-27 00:45:58
+Country: Montenegro,Currency Name: Euro,Continent: EU,,2024-08-27 00:45:58
+Country: Montserrat,Currency Name: Dollar,Continent: NA,,2024-08-27 00:45:59
+Country: Morocco,Currency Name: Dirham,Continent: AF,,2024-08-27 00:45:59
+Country: Mozambique,Currency Name: Metical,Continent: AF,,2024-08-27 00:45:59
+Country: Myanmar,Currency Name: Kyat,Continent: AS,,2024-08-27 00:45:59
+Country: Namibia,Currency Name: Dollar,Continent: AF,,2024-08-27 00:45:59
+Country: Nauru,Currency Name: Dollar,Continent: OC,,2024-08-27 00:46:00
+Country: Nepal,Currency Name: Rupee,Continent: AS,,2024-08-27 00:46:00
+Country: Netherlands,Currency Name: Euro,Continent: EU,,2024-08-27 00:46:00
+Country: Netherlands Antilles,Currency Name: Guilder,Continent: NA,,2024-08-27 00:46:00
+Country: New Caledonia,Currency Name: Franc,Continent: OC,,2024-08-27 00:46:00
+Country: New Zealand,Currency Name: Dollar,Continent: OC,,2024-08-27 00:46:00
+Country: Nicaragua,Currency Name: Cordoba,Continent: NA,,2024-08-27 00:46:00
+Country: Niger,Currency Name: Franc,Continent: AF,,2024-08-27 00:46:00
+Country: Nigeria,Currency Name: Naira,Continent: AF,,2024-08-27 00:46:01
+Country: Niue,Currency Name: Dollar,Continent: OC,,2024-08-27 00:46:01
+Country: Norfolk Island,Currency Name: Dollar,Continent: OC,,2024-08-27 00:46:01
+Country: North Korea,Currency Name: Won,Continent: AS,,2024-08-27 00:46:01
+Country: Northern Mariana Islands,Currency Name: Dollar,Continent: OC,,2024-08-27 00:46:01
+Country: Norway,Currency Name: Krone,Continent: EU,,2024-08-27 00:46:01
+Country: Oman,Currency Name: Rial,Continent: AS,,2024-08-27 00:46:01
+Country: Pakistan,Currency Name: Rupee,Continent: AS,,2024-08-27 00:46:01
+Country: Palau,Currency Name: Dollar,Continent: OC,,2024-08-27 00:46:02
+Country: Palestinian Territory,Currency Name: Shekel,Continent: AS,,2024-08-27 00:46:02
+Country: Panama,Currency Name: Balboa,Continent: NA,,2024-08-27 00:46:02
+Country: Papua New Guinea,Currency Name: Kina,Continent: OC,,2024-08-27 00:46:02
+Country: Paraguay,Currency Name: Guarani,Continent: SA,,2024-08-27 00:46:02
+Country: Peru,Currency Name: Sol,Continent: SA,,2024-08-27 00:46:02
+Country: Philippines,Currency Name: Peso,Continent: AS,,2024-08-27 00:46:02
+Country: Pitcairn,Currency Name: Dollar,Continent: OC,,2024-08-27 00:46:02
+Country: Poland,Currency Name: Zloty,Continent: EU,,2024-08-27 00:46:02
+Country: Portugal,Currency Name: Euro,Continent: EU,,2024-08-27 00:46:03
+Country: Puerto Rico,Currency Name: Dollar,Continent: NA,,2024-08-27 00:46:03
+Country: Qatar,Currency Name: Rial,Continent: AS,,2024-08-27 00:46:03
+Country: Republic of the Congo,Currency Name: Franc,Continent: AF,,2024-08-27 00:46:03
+Country: Reunion,Currency Name: Euro,Continent: AF,,2024-08-27 00:46:03
+Country: Romania,Currency Name: Leu,Continent: EU,,2024-08-27 00:46:03
+Country: Russia,Currency Name: Ruble,Continent: EU,,2024-08-27 00:46:03
+Country: Rwanda,Currency Name: Franc,Continent: AF,,2024-08-27 00:46:03
+Country: Saint Barthelemy,Currency Name: Euro,Continent: NA,,2024-08-27 00:46:04
+Country: Saint Helena,Currency Name: Pound,Continent: AF,,2024-08-27 00:46:04
+Country: Saint Kitts and Nevis,Currency Name: Dollar,Continent: NA,,2024-08-27 00:46:04
+Country: Saint Lucia,Currency Name: Dollar,Continent: NA,,2024-08-27 00:46:04
+Country: Saint Martin,Currency Name: Euro,Continent: NA,,2024-08-27 00:46:04
+Country: Saint Pierre and Miquelon,Currency Name: Euro,Continent: NA,,2024-08-27 00:46:04
+Country: Saint Vincent and the Grenadines,Currency Name: Dollar,Continent: NA,,2024-08-27 00:46:04
+Country: Samoa,Currency Name: Tala,Continent: OC,,2024-08-27 00:46:04
+Country: San Marino,Currency Name: Euro,Continent: EU,,2024-08-27 00:46:05
+Country: Sao Tome and Principe,Currency Name: Dobra,Continent: AF,,2024-08-27 00:46:05
+Country: Saudi Arabia,Currency Name: Rial,Continent: AS,,2024-08-27 00:46:05
+Country: Senegal,Currency Name: Franc,Continent: AF,,2024-08-27 00:46:05
+Country: Serbia,Currency Name: Dinar,Continent: EU,,2024-08-27 00:46:05
+Country: Serbia and Montenegro,Currency Name: Dinar,Continent: EU,,2024-08-27 00:46:05
+Country: Seychelles,Currency Name: Rupee,Continent: AF,,2024-08-27 00:46:05
+Country: Sierra Leone,Currency Name: Leone,Continent: AF,,2024-08-27 00:46:05
+Country: Singapore,Currency Name: Dollar,Continent: AS,,2024-08-27 00:46:05
+Country: Sint Maarten,Currency Name: Guilder,Continent: NA,,2024-08-27 00:46:06
+Country: Slovakia,Currency Name: Euro,Continent: EU,,2024-08-27 00:46:06
+Country: Slovenia,Currency Name: Euro,Continent: EU,,2024-08-27 00:46:06
+Country: Solomon Islands,Currency Name: Dollar,Continent: OC,,2024-08-27 00:46:06
+Country: Somalia,Currency Name: Shilling,Continent: AF,,2024-08-27 00:46:06
+Country: South Africa,Currency Name: Rand,Continent: AF,,2024-08-27 00:46:06
+Country: South Georgia and the South Sandwich Islands,Currency Name: Pound,Continent: AN,,2024-08-27 00:46:06
+Country: South Korea,Currency Name: Won,Continent: AS,,2024-08-27 00:46:06
+Country: South Sudan,Currency Name: Pound,Continent: AF,,2024-08-27 00:46:07
+Country: Spain,Currency Name: Euro,Continent: EU,,2024-08-27 00:46:07
+Country: Sri Lanka,Currency Name: Rupee,Continent: AS,,2024-08-27 00:46:07
+Country: Sudan,Currency Name: Pound,Continent: AF,,2024-08-27 00:46:07
+Country: Suriname,Currency Name: Dollar,Continent: SA,,2024-08-27 00:46:07
+Country: Svalbard and Jan Mayen,Currency Name: Krone,Continent: EU,,2024-08-27 00:46:07
+Country: Swaziland,Currency Name: Lilangeni,Continent: AF,,2024-08-27 00:46:07
+Country: Sweden,Currency Name: Krona,Continent: EU,,2024-08-27 00:46:07
+Country: Switzerland,Currency Name: Franc,Continent: EU,,2024-08-27 00:46:07
+Country: Syria,Currency Name: Pound,Continent: AS,,2024-08-27 00:46:08
+Country: Taiwan,Currency Name: Dollar,Continent: AS,,2024-08-27 00:46:08
+Country: Tajikistan,Currency Name: Somoni,Continent: AS,,2024-08-27 00:46:08
+Country: Tanzania,Currency Name: Shilling,Continent: AF,,2024-08-27 00:46:08
+Country: Thailand,Currency Name: Baht,Continent: AS,,2024-08-27 00:46:08
+Country: Togo,Currency Name: Franc,Continent: AF,,2024-08-27 00:46:08
+Country: Tokelau,Currency Name: Dollar,Continent: OC,,2024-08-27 00:46:08
+Country: Tonga,Currency Name: Pa'anga,Continent: OC,,2024-08-27 00:46:08
+Country: Trinidad and Tobago,Currency Name: Dollar,Continent: NA,,2024-08-27 00:46:08
+Country: Tunisia,Currency Name: Dinar,Continent: AF,,2024-08-27 00:46:09
+Country: Turkey,Currency Name: Lira,Continent: AS,,2024-08-27 00:46:09
+Country: Turkmenistan,Currency Name: Manat,Continent: AS,,2024-08-27 00:46:09
+Country: Turks and Caicos Islands,Currency Name: Dollar,Continent: NA,,2024-08-27 00:46:09
+Country: Tuvalu,Currency Name: Dollar,Continent: OC,,2024-08-27 00:46:09
+Country: U.S. Virgin Islands,Currency Name: Dollar,Continent: NA,,2024-08-27 00:46:09
+Country: Uganda,Currency Name: Shilling,Continent: AF,,2024-08-27 00:46:09
+Country: Ukraine,Currency Name: Hryvnia,Continent: EU,,2024-08-27 00:46:10
+Country: United Arab Emirates,Currency Name: Dirham,Continent: AS,,2024-08-27 00:46:10
+Country: United Kingdom,Currency Name: Pound,Continent: EU,,2024-08-27 00:46:10
+Country: United States,Currency Name: Dollar,Continent: NA,,2024-08-27 00:46:10
+Country: United States Minor Outlying Islands,Currency Name: Dollar,Continent: OC,,2024-08-27 00:46:10
+Country: Uruguay,Currency Name: Peso,Continent: SA,,2024-08-27 00:46:10
+Country: Uzbekistan,Currency Name: Som,Continent: AS,,2024-08-27 00:46:10
+Country: Vanuatu,Currency Name: Vatu,Continent: OC,,2024-08-27 00:46:10
+Country: Vatican,Currency Name: Euro,Continent: EU,,2024-08-27 00:46:11
+Country: Venezuela,Currency Name: Bolivar,Continent: SA,,2024-08-27 00:46:11
+Country: Vietnam,Currency Name: Dong,Continent: AS,,2024-08-27 00:46:11
+Country: Wallis and Futuna,Currency Name: Franc,Continent: OC,,2024-08-27 00:46:11
+Country: Western Sahara,Currency Name: Dirham,Continent: AF,,2024-08-27 00:46:11
+Country: Yemen,Currency Name: Rial,Continent: AS,,2024-08-27 00:46:11
+Country: Afghanistan,Currency Name: Afghani,Continent: AS,,2024-08-27 00:46:50
+Country: Aland Islands,Currency Name: Euro,Continent: EU,,2024-08-27 00:46:51
+Country: Albania,Currency Name: Lek,Continent: EU,,2024-08-27 00:46:51
+Country: Algeria,Currency Name: Dinar,Continent: AF,,2024-08-27 00:46:51
+Country: American Samoa,Currency Name: Dollar,Continent: OC,,2024-08-27 00:46:51
+Country: Andorra,Currency Name: Euro,Continent: EU,,2024-08-27 00:46:51
+Country: Angola,Currency Name: Kwanza,Continent: AF,,2024-08-27 00:46:51
+Country: Anguilla,Currency Name: Dollar,Continent: NA,,2024-08-27 00:46:51
+Country: Antarctica,Currency Name:,Continent: AN,,2024-08-27 00:46:51
+Country: Antigua and Barbuda,Currency Name: Dollar,Continent: NA,,2024-08-27 00:46:51
+Country: Argentina,Currency Name: Peso,Continent: SA,,2024-08-27 00:46:52
+Country: Armenia,Currency Name: Dram,Continent: AS,,2024-08-27 00:46:52
+Country: Aruba,Currency Name: Guilder,Continent: NA,,2024-08-27 00:46:52
+Country: Australia,Currency Name: Dollar,Continent: OC,,2024-08-27 00:46:52
+Country: Austria,Currency Name: Euro,Continent: EU,,2024-08-27 00:46:52
+Country: Azerbaijan,Currency Name: Manat,Continent: AS,,2024-08-27 00:46:52
+Country: Bahamas,Currency Name: Dollar,Continent: NA,,2024-08-27 00:46:52
+Country: Bahrain,Currency Name: Dinar,Continent: AS,,2024-08-27 00:46:52
+Country: Bangladesh,Currency Name: Taka,Continent: AS,,2024-08-27 00:46:52
+Country: Barbados,Currency Name: Dollar,Continent: NA,,2024-08-27 00:46:53
+Country: Belarus,Currency Name: Ruble,Continent: EU,,2024-08-27 00:46:53
+Country: Belgium,Currency Name: Euro,Continent: EU,,2024-08-27 00:46:53
+Country: Belize,Currency Name: Dollar,Continent: NA,,2024-08-27 00:46:53
+Country: Benin,Currency Name: Franc,Continent: AF,,2024-08-27 00:46:53
+Country: Bermuda,Currency Name: Dollar,Continent: NA,,2024-08-27 00:46:53
+Country: Bhutan,Currency Name: Ngultrum,Continent: AS,,2024-08-27 00:46:53
+Country: Bolivia,Currency Name: Boliviano,Continent: SA,,2024-08-27 00:46:53
+"Country: Bonaire, Saint Eustatius and Saba",Currency Name: Dollar,Continent: NA,,2024-08-27 00:46:54
+Country: Bosnia and Herzegovina,Currency Name: Marka,Continent: EU,,2024-08-27 00:46:54
+Country: Botswana,Currency Name: Pula,Continent: AF,,2024-08-27 00:46:54
+Country: Bouvet Island,Currency Name: Krone,Continent: AN,,2024-08-27 00:46:54
+Country: Brazil,Currency Name: Real,Continent: SA,,2024-08-27 00:46:54
+Country: British Indian Ocean Territory,Currency Name: Dollar,Continent: AS,,2024-08-27 00:46:54
+Country: British Virgin Islands,Currency Name: Dollar,Continent: NA,,2024-08-27 00:46:54
+Country: Brunei,Currency Name: Dollar,Continent: AS,,2024-08-27 00:46:54
+Country: Bulgaria,Currency Name: Lev,Continent: EU,,2024-08-27 00:46:55
+Country: Burkina Faso,Currency Name: Franc,Continent: AF,,2024-08-27 00:46:55
+Country: Burundi,Currency Name: Franc,Continent: AF,,2024-08-27 00:46:55
+Country: Cambodia,Currency Name: Riels,Continent: AS,,2024-08-27 00:46:55
+Country: Cameroon,Currency Name: Franc,Continent: AF,,2024-08-27 00:46:55
+Country: Canada,Currency Name: Dollar,Continent: NA,,2024-08-27 00:46:55
+Country: Cape Verde,Currency Name: Escudo,Continent: AF,,2024-08-27 00:46:55
+Country: Cayman Islands,Currency Name: Dollar,Continent: NA,,2024-08-27 00:46:55
+Country: Central African Republic,Currency Name: Franc,Continent: AF,,2024-08-27 00:46:56
+Country: Chad,Currency Name: Franc,Continent: AF,,2024-08-27 00:46:56
+Country: Chile,Currency Name: Peso,Continent: SA,,2024-08-27 00:46:56
+Country: China,Currency Name: Yuan Renminbi,Continent: AS,,2024-08-27 00:46:56
+Country: Christmas Island,Currency Name: Dollar,Continent: AS,,2024-08-27 00:46:56
+Country: Cocos Islands,Currency Name: Dollar,Continent: AS,,2024-08-27 00:46:56
+Country: Colombia,Currency Name: Peso,Continent: SA,,2024-08-27 00:46:57
+Country: Comoros,Currency Name: Franc,Continent: AF,,2024-08-27 00:46:57
+Country: Cook Islands,Currency Name: Dollar,Continent: OC,,2024-08-27 00:46:57
+Country: Costa Rica,Currency Name: Colon,Continent: NA,,2024-08-27 00:46:57
+Country: Croatia,Currency Name: Kuna,Continent: EU,,2024-08-27 00:46:57
+Country: Cuba,Currency Name: Peso,Continent: NA,,2024-08-27 00:46:58
+Country: Curacao,Currency Name: Guilder,Continent: NA,,2024-08-27 00:46:58
+Country: Cyprus,Currency Name: Euro,Continent: EU,,2024-08-27 00:46:58
+Country: Czech Republic,Currency Name: Koruna,Continent: EU,,2024-08-27 00:46:58
+Country: Democratic Republic of the Congo,Currency Name: Franc,Continent: AF,,2024-08-27 00:46:58
+Country: Denmark,Currency Name: Krone,Continent: EU,,2024-08-27 00:46:58
+Country: Djibouti,Currency Name: Franc,Continent: AF,,2024-08-27 00:46:58
+Country: Dominica,Currency Name: Dollar,Continent: NA,,2024-08-27 00:46:59
+Country: Dominican Republic,Currency Name: Peso,Continent: NA,,2024-08-27 00:46:59
+Country: East Timor,Currency Name: Dollar,Continent: OC,,2024-08-27 00:46:59
+Country: Ecuador,Currency Name: Dollar,Continent: SA,,2024-08-27 00:46:59
+Country: Egypt,Currency Name: Pound,Continent: AF,,2024-08-27 00:46:59
+Country: El Salvador,Currency Name: Dollar,Continent: NA,,2024-08-27 00:46:59
+Country: Equatorial Guinea,Currency Name: Franc,Continent: AF,,2024-08-27 00:46:59
+Country: Eritrea,Currency Name: Nakfa,Continent: AF,,2024-08-27 00:46:59
+Country: Estonia,Currency Name: Euro,Continent: EU,,2024-08-27 00:46:59
+Country: Ethiopia,Currency Name: Birr,Continent: AF,,2024-08-27 00:47:00
+Country: Falkland Islands,Currency Name: Pound,Continent: SA,,2024-08-27 00:47:00
+Country: Faroe Islands,Currency Name: Krone,Continent: EU,,2024-08-27 00:47:00
+Country: Fiji,Currency Name: Dollar,Continent: OC,,2024-08-27 00:47:00
+Country: Finland,Currency Name: Euro,Continent: EU,,2024-08-27 00:47:00
+Country: France,Currency Name: Euro,Continent: EU,,2024-08-27 00:47:00
+Country: French Guiana,Currency Name: Euro,Continent: SA,,2024-08-27 00:47:00
+Country: French Polynesia,Currency Name: Franc,Continent: OC,,2024-08-27 00:47:00
+Country: French Southern Territories,Currency Name: Euro,Continent: AN,,2024-08-27 00:47:00
+Country: Gabon,Currency Name: Franc,Continent: AF,,2024-08-27 00:47:01
+Country: Gambia,Currency Name: Dalasi,Continent: AF,,2024-08-27 00:47:01
+Country: Georgia,Currency Name: Lari,Continent: AS,,2024-08-27 00:47:01
+Country: Germany,Currency Name: Euro,Continent: EU,,2024-08-27 00:47:01
+Country: Ghana,Currency Name: Cedi,Continent: AF,,2024-08-27 00:47:01
+Country: Gibraltar,Currency Name: Pound,Continent: EU,,2024-08-27 00:47:01
+Country: Greece,Currency Name: Euro,Continent: EU,,2024-08-27 00:47:01
+Country: Greenland,Currency Name: Krone,Continent: NA,,2024-08-27 00:47:01
+Country: Grenada,Currency Name: Dollar,Continent: NA,,2024-08-27 00:47:01
+Country: Guadeloupe,Currency Name: Euro,Continent: NA,,2024-08-27 00:47:02
+Country: Guam,Currency Name: Dollar,Continent: OC,,2024-08-27 00:47:02
+Country: Guatemala,Currency Name: Quetzal,Continent: NA,,2024-08-27 00:47:02
+Country: Guernsey,Currency Name: Pound,Continent: EU,,2024-08-27 00:47:02
+Country: Guinea,Currency Name: Franc,Continent: AF,,2024-08-27 00:47:02
+Country: Guinea-Bissau,Currency Name: Franc,Continent: AF,,2024-08-27 00:47:02
+Country: Guyana,Currency Name: Dollar,Continent: SA,,2024-08-27 00:47:02
+Country: Haiti,Currency Name: Gourde,Continent: NA,,2024-08-27 00:47:02
+Country: Heard Island and McDonald Islands,Currency Name: Dollar,Continent: AN,,2024-08-27 00:47:03
+Country: Honduras,Currency Name: Lempira,Continent: NA,,2024-08-27 00:47:03
+Country: Hong Kong,Currency Name: Dollar,Continent: AS,,2024-08-27 00:47:03
+Country: Hungary,Currency Name: Forint,Continent: EU,,2024-08-27 00:47:03
+Country: Iceland,Currency Name: Krona,Continent: EU,,2024-08-27 00:47:03
+Country: India,Currency Name: Rupee,Continent: AS,,2024-08-27 00:47:03
+Country: Indonesia,Currency Name: Rupiah,Continent: AS,,2024-08-27 00:47:03
+Country: Iran,Currency Name: Rial,Continent: AS,,2024-08-27 00:47:03
+Country: Iraq,Currency Name: Dinar,Continent: AS,,2024-08-27 00:47:04
+Country: Ireland,Currency Name: Euro,Continent: EU,,2024-08-27 00:47:04
+Country: Isle of Man,Currency Name: Pound,Continent: EU,,2024-08-27 00:47:04
+Country: Israel,Currency Name: Shekel,Continent: AS,,2024-08-27 00:47:04
+Country: Italy,Currency Name: Euro,Continent: EU,,2024-08-27 00:47:04
+Country: Ivory Coast,Currency Name: Franc,Continent: AF,,2024-08-27 00:47:04
+Country: Jamaica,Currency Name: Dollar,Continent: NA,,2024-08-27 00:47:04
+Country: Japan,Currency Name: Yen,Continent: AS,,2024-08-27 00:47:04
+Country: Jersey,Currency Name: Pound,Continent: EU,,2024-08-27 00:47:05
+Country: Jordan,Currency Name: Dinar,Continent: AS,,2024-08-27 00:47:05
+Country: Kazakhstan,Currency Name: Tenge,Continent: AS,,2024-08-27 00:47:05
+Country: Kenya,Currency Name: Shilling,Continent: AF,,2024-08-27 00:47:05
+Country: Kiribati,Currency Name: Dollar,Continent: OC,,2024-08-27 00:47:05
+Country: Kosovo,Currency Name: Euro,Continent: EU,,2024-08-27 00:47:05
+Country: Kuwait,Currency Name: Dinar,Continent: AS,,2024-08-27 00:47:05
+Country: Kyrgyzstan,Currency Name: Som,Continent: AS,,2024-08-27 00:47:05
+Country: Laos,Currency Name: Kip,Continent: AS,,2024-08-27 00:47:05
+Country: Latvia,Currency Name: Euro,Continent: EU,,2024-08-27 00:47:06
+Country: Lebanon,Currency Name: Pound,Continent: AS,,2024-08-27 00:47:06
+Country: Lesotho,Currency Name: Loti,Continent: AF,,2024-08-27 00:47:06
+Country: Liberia,Currency Name: Dollar,Continent: AF,,2024-08-27 00:47:06
+Country: Libya,Currency Name: Dinar,Continent: AF,,2024-08-27 00:47:06
+Country: Liechtenstein,Currency Name: Franc,Continent: EU,,2024-08-27 00:47:06
+Country: Lithuania,Currency Name: Litas,Continent: EU,,2024-08-27 00:47:06
+Country: Luxembourg,Currency Name: Euro,Continent: EU,,2024-08-27 00:47:06
+Country: Macao,Currency Name: Pataca,Continent: AS,,2024-08-27 00:47:06
+Country: Macedonia,Currency Name: Denar,Continent: EU,,2024-08-27 00:47:07
+Country: Madagascar,Currency Name: Ariary,Continent: AF,,2024-08-27 00:47:07
+Country: Malawi,Currency Name: Kwacha,Continent: AF,,2024-08-27 00:47:07
+Country: Malaysia,Currency Name: Ringgit,Continent: AS,,2024-08-27 00:47:07
+Country: Maldives,Currency Name: Rufiyaa,Continent: AS,,2024-08-27 00:47:07
+Country: Mali,Currency Name: Franc,Continent: AF,,2024-08-27 00:47:07
+Country: Malta,Currency Name: Euro,Continent: EU,,2024-08-27 00:47:07
+Country: Marshall Islands,Currency Name: Dollar,Continent: OC,,2024-08-27 00:47:07
+Country: Martinique,Currency Name: Euro,Continent: NA,,2024-08-27 00:47:08
+Country: Mauritania,Currency Name: Ouguiya,Continent: AF,,2024-08-27 00:47:08
+Country: Mauritius,Currency Name: Rupee,Continent: AF,,2024-08-27 00:47:08
+Country: Mayotte,Currency Name: Euro,Continent: AF,,2024-08-27 00:47:08
+Country: Mexico,Currency Name: Peso,Continent: NA,,2024-08-27 00:47:08
+Country: Micronesia,Currency Name: Dollar,Continent: OC,,2024-08-27 00:47:08
+Country: Moldova,Currency Name: Leu,Continent: EU,,2024-08-27 00:47:08
+Country: Monaco,Currency Name: Euro,Continent: EU,,2024-08-27 00:47:08
+Country: Mongolia,Currency Name: Tugrik,Continent: AS,,2024-08-27 00:47:09
+Country: Montenegro,Currency Name: Euro,Continent: EU,,2024-08-27 00:47:09
+Country: Montserrat,Currency Name: Dollar,Continent: NA,,2024-08-27 00:47:09
+Country: Morocco,Currency Name: Dirham,Continent: AF,,2024-08-27 00:47:09
+Country: Mozambique,Currency Name: Metical,Continent: AF,,2024-08-27 00:47:09
+Country: Myanmar,Currency Name: Kyat,Continent: AS,,2024-08-27 00:47:09
+Country: Namibia,Currency Name: Dollar,Continent: AF,,2024-08-27 00:47:09
+Country: Nauru,Currency Name: Dollar,Continent: OC,,2024-08-27 00:47:09
+Country: Nepal,Currency Name: Rupee,Continent: AS,,2024-08-27 00:47:10
+Country: Netherlands,Currency Name: Euro,Continent: EU,,2024-08-27 00:47:10
+Country: Netherlands Antilles,Currency Name: Guilder,Continent: NA,,2024-08-27 00:47:10
+Country: New Caledonia,Currency Name: Franc,Continent: OC,,2024-08-27 00:47:10
+Country: New Zealand,Currency Name: Dollar,Continent: OC,,2024-08-27 00:47:10
+Country: Nicaragua,Currency Name: Cordoba,Continent: NA,,2024-08-27 00:47:10
+Country: Niger,Currency Name: Franc,Continent: AF,,2024-08-27 00:47:10
+Country: Nigeria,Currency Name: Naira,Continent: AF,,2024-08-27 00:47:10
+Country: Niue,Currency Name: Dollar,Continent: OC,,2024-08-27 00:47:10
+Country: Norfolk Island,Currency Name: Dollar,Continent: OC,,2024-08-27 00:47:11
+Country: North Korea,Currency Name: Won,Continent: AS,,2024-08-27 00:47:11
+Country: Northern Mariana Islands,Currency Name: Dollar,Continent: OC,,2024-08-27 00:47:11
+Country: Norway,Currency Name: Krone,Continent: EU,,2024-08-27 00:47:11
+Country: Oman,Currency Name: Rial,Continent: AS,,2024-08-27 00:47:11
+Country: Pakistan,Currency Name: Rupee,Continent: AS,,2024-08-27 00:47:11
+Country: Palau,Currency Name: Dollar,Continent: OC,,2024-08-27 00:47:11
+Country: Palestinian Territory,Currency Name: Shekel,Continent: AS,,2024-08-27 00:47:11
+Country: Panama,Currency Name: Balboa,Continent: NA,,2024-08-27 00:47:12
+Country: Papua New Guinea,Currency Name: Kina,Continent: OC,,2024-08-27 00:47:12
+Country: Paraguay,Currency Name: Guarani,Continent: SA,,2024-08-27 00:47:12
+Country: Peru,Currency Name: Sol,Continent: SA,,2024-08-27 00:47:12
+Country: Philippines,Currency Name: Peso,Continent: AS,,2024-08-27 00:47:12
+Country: Pitcairn,Currency Name: Dollar,Continent: OC,,2024-08-27 00:47:12
+Country: Poland,Currency Name: Zloty,Continent: EU,,2024-08-27 00:47:12
+Country: Portugal,Currency Name: Euro,Continent: EU,,2024-08-27 00:47:12
+Country: Puerto Rico,Currency Name: Dollar,Continent: NA,,2024-08-27 00:47:12
+Country: Qatar,Currency Name: Rial,Continent: AS,,2024-08-27 00:47:13
+Country: Republic of the Congo,Currency Name: Franc,Continent: AF,,2024-08-27 00:47:13
+Country: Reunion,Currency Name: Euro,Continent: AF,,2024-08-27 00:47:13
+Country: Romania,Currency Name: Leu,Continent: EU,,2024-08-27 00:47:13
+Country: Russia,Currency Name: Ruble,Continent: EU,,2024-08-27 00:47:13
+Country: Rwanda,Currency Name: Franc,Continent: AF,,2024-08-27 00:47:13
+Country: Saint Barthelemy,Currency Name: Euro,Continent: NA,,2024-08-27 00:47:13
+Country: Saint Helena,Currency Name: Pound,Continent: AF,,2024-08-27 00:47:13
+Country: Saint Kitts and Nevis,Currency Name: Dollar,Continent: NA,,2024-08-27 00:47:14
+Country: Saint Lucia,Currency Name: Dollar,Continent: NA,,2024-08-27 00:47:14
+Country: Saint Martin,Currency Name: Euro,Continent: NA,,2024-08-27 00:47:14
+Country: Saint Pierre and Miquelon,Currency Name: Euro,Continent: NA,,2024-08-27 00:47:14
+Country: Saint Vincent and the Grenadines,Currency Name: Dollar,Continent: NA,,2024-08-27 00:47:14
+Country: Samoa,Currency Name: Tala,Continent: OC,,2024-08-27 00:47:14
+Country: San Marino,Currency Name: Euro,Continent: EU,,2024-08-27 00:47:14
+Country: Sao Tome and Principe,Currency Name: Dobra,Continent: AF,,2024-08-27 00:47:14
+Country: Saudi Arabia,Currency Name: Rial,Continent: AS,,2024-08-27 00:47:14
+Country: Senegal,Currency Name: Franc,Continent: AF,,2024-08-27 00:47:15
+Country: Serbia,Currency Name: Dinar,Continent: EU,,2024-08-27 00:47:15
+Country: Serbia and Montenegro,Currency Name: Dinar,Continent: EU,,2024-08-27 00:47:15
+Country: Seychelles,Currency Name: Rupee,Continent: AF,,2024-08-27 00:47:15
+Country: Sierra Leone,Currency Name: Leone,Continent: AF,,2024-08-27 00:47:15
+Country: Singapore,Currency Name: Dollar,Continent: AS,,2024-08-27 00:47:15
+Country: Sint Maarten,Currency Name: Guilder,Continent: NA,,2024-08-27 00:47:15
+Country: Slovakia,Currency Name: Euro,Continent: EU,,2024-08-27 00:47:15
+Country: Slovenia,Currency Name: Euro,Continent: EU,,2024-08-27 00:47:15
+Country: Solomon Islands,Currency Name: Dollar,Continent: OC,,2024-08-27 00:47:16
+Country: Somalia,Currency Name: Shilling,Continent: AF,,2024-08-27 00:47:16
+Country: South Africa,Currency Name: Rand,Continent: AF,,2024-08-27 00:47:16
+Country: South Georgia and the South Sandwich Islands,Currency Name: Pound,Continent: AN,,2024-08-27 00:47:16
+Country: South Korea,Currency Name: Won,Continent: AS,,2024-08-27 00:47:16
+Country: South Sudan,Currency Name: Pound,Continent: AF,,2024-08-27 00:47:16
+Country: Spain,Currency Name: Euro,Continent: EU,,2024-08-27 00:47:16
+Country: Sri Lanka,Currency Name: Rupee,Continent: AS,,2024-08-27 00:47:16
+Country: Sudan,Currency Name: Pound,Continent: AF,,2024-08-27 00:47:16
+Country: Suriname,Currency Name: Dollar,Continent: SA,,2024-08-27 00:47:17
+Country: Svalbard and Jan Mayen,Currency Name: Krone,Continent: EU,,2024-08-27 00:47:17
+Country: Swaziland,Currency Name: Lilangeni,Continent: AF,,2024-08-27 00:47:17
+Country: Sweden,Currency Name: Krona,Continent: EU,,2024-08-27 00:47:17
+Country: Switzerland,Currency Name: Franc,Continent: EU,,2024-08-27 00:47:17
+Country: Syria,Currency Name: Pound,Continent: AS,,2024-08-27 00:47:17
+Country: Taiwan,Currency Name: Dollar,Continent: AS,,2024-08-27 00:47:17
+Country: Tajikistan,Currency Name: Somoni,Continent: AS,,2024-08-27 00:47:17
+Country: Tanzania,Currency Name: Shilling,Continent: AF,,2024-08-27 00:47:18
+Country: Thailand,Currency Name: Baht,Continent: AS,,2024-08-27 00:47:18
+Country: Togo,Currency Name: Franc,Continent: AF,,2024-08-27 00:47:18
+Country: Tokelau,Currency Name: Dollar,Continent: OC,,2024-08-27 00:47:18
+Country: Tonga,Currency Name: Pa'anga,Continent: OC,,2024-08-27 00:47:18
+Country: Trinidad and Tobago,Currency Name: Dollar,Continent: NA,,2024-08-27 00:47:18
+Country: Tunisia,Currency Name: Dinar,Continent: AF,,2024-08-27 00:47:18
+Country: Turkey,Currency Name: Lira,Continent: AS,,2024-08-27 00:47:18
+Country: Turkmenistan,Currency Name: Manat,Continent: AS,,2024-08-27 00:47:18
+Country: Turks and Caicos Islands,Currency Name: Dollar,Continent: NA,,2024-08-27 00:47:19
+Country: Tuvalu,Currency Name: Dollar,Continent: OC,,2024-08-27 00:47:19
+Country: U.S. Virgin Islands,Currency Name: Dollar,Continent: NA,,2024-08-27 00:47:19
+Country: Uganda,Currency Name: Shilling,Continent: AF,,2024-08-27 00:47:19
+Country: Ukraine,Currency Name: Hryvnia,Continent: EU,,2024-08-27 00:47:19
+Country: United Arab Emirates,Currency Name: Dirham,Continent: AS,,2024-08-27 00:47:19
+Country: United Kingdom,Currency Name: Pound,Continent: EU,,2024-08-27 00:47:19
+Country: United States,Currency Name: Dollar,Continent: NA,,2024-08-27 00:47:19
+Country: United States Minor Outlying Islands,Currency Name: Dollar,Continent: OC,,2024-08-27 00:47:19
+Country: Uruguay,Currency Name: Peso,Continent: SA,,2024-08-27 00:47:20
+Country: Uzbekistan,Currency Name: Som,Continent: AS,,2024-08-27 00:47:20
+Country: Vanuatu,Currency Name: Vatu,Continent: OC,,2024-08-27 00:47:20
+Country: Vatican,Currency Name: Euro,Continent: EU,,2024-08-27 00:47:20
+Country: Venezuela,Currency Name: Bolivar,Continent: SA,,2024-08-27 00:47:20
+Country: Vietnam,Currency Name: Dong,Continent: AS,,2024-08-27 00:47:20
+Country: Wallis and Futuna,Currency Name: Franc,Continent: OC,,2024-08-27 00:47:20
+Country: Western Sahara,Currency Name: Dirham,Continent: AF,,2024-08-27 00:47:20
+Country: Yemen,Currency Name: Rial,Continent: AS,,2024-08-27 00:47:20
+Country: Zambia,Currency Name: Kwacha,Continent: AF,,2024-08-27 00:47:21
+Country: Zimbabwe,Currency Name: Dollar,Continent: AF,,2024-08-27 00:47:21
+Country: Afghanistan;Currency Name: Afghani;Continent: AS;;2024-08-27 00:52:04
+Country: Aland Islands;Currency Name: Euro;Continent: EU;;2024-08-27 00:52:04
+Country: Albania;Currency Name: Lek;Continent: EU;;2024-08-27 00:52:04
+Country: Algeria;Currency Name: Dinar;Continent: AF;;2024-08-27 00:52:04
+Country: American Samoa;Currency Name: Dollar;Continent: OC;;2024-08-27 00:52:05
+Country: Andorra;Currency Name: Euro;Continent: EU;;2024-08-27 00:52:05
+Country: Angola;Currency Name: Kwanza;Continent: AF;;2024-08-27 00:52:05
+Country: Anguilla;Currency Name: Dollar;Continent: NA;;2024-08-27 00:52:05
+Country: Antarctica;Currency Name:;Continent: AN;;2024-08-27 00:52:05
+Country: Antigua and Barbuda;Currency Name: Dollar;Continent: NA;;2024-08-27 00:52:05
+Country: Argentina;Currency Name: Peso;Continent: SA;;2024-08-27 00:52:05
+Country: Armenia;Currency Name: Dram;Continent: AS;;2024-08-27 00:52:05
+Country: Aruba;Currency Name: Guilder;Continent: NA;;2024-08-27 00:52:06
+Country: Australia;Currency Name: Dollar;Continent: OC;;2024-08-27 00:52:06
+Country: Austria;Currency Name: Euro;Continent: EU;;2024-08-27 00:52:06
+Country: Azerbaijan;Currency Name: Manat;Continent: AS;;2024-08-27 00:52:06
+Country: Bahamas;Currency Name: Dollar;Continent: NA;;2024-08-27 00:52:06
+Country: Bahrain;Currency Name: Dinar;Continent: AS;;2024-08-27 00:52:06
+Country: Bangladesh;Currency Name: Taka;Continent: AS;;2024-08-27 00:52:06
+Country: Barbados;Currency Name: Dollar;Continent: NA;;2024-08-27 00:52:06
+Country: Belarus;Currency Name: Ruble;Continent: EU;;2024-08-27 00:52:07
+Country: Belgium;Currency Name: Euro;Continent: EU;;2024-08-27 00:52:07
+Country: Belize;Currency Name: Dollar;Continent: NA;;2024-08-27 00:52:07
+Country: Benin;Currency Name: Franc;Continent: AF;;2024-08-27 00:52:07
+Country: Bermuda;Currency Name: Dollar;Continent: NA;;2024-08-27 00:52:07
+Country: Bhutan;Currency Name: Ngultrum;Continent: AS;;2024-08-27 00:52:08
+Country: Bolivia;Currency Name: Boliviano;Continent: SA;;2024-08-27 00:52:08
+Country: Bonaire, Saint Eustatius and Saba;Currency Name: Dollar;Continent: NA;;2024-08-27 00:52:08
+Country: Bosnia and Herzegovina;Currency Name: Marka;Continent: EU;;2024-08-27 00:52:08
+Country: Botswana;Currency Name: Pula;Continent: AF;;2024-08-27 00:52:08
+Country: Bouvet Island;Currency Name: Krone;Continent: AN;;2024-08-27 00:52:08
+Country: Brazil;Currency Name: Real;Continent: SA;;2024-08-27 00:52:08
+Country: British Indian Ocean Territory;Currency Name: Dollar;Continent: AS;;2024-08-27 00:52:08
+Country: British Virgin Islands;Currency Name: Dollar;Continent: NA;;2024-08-27 00:52:09
+Country: Brunei;Currency Name: Dollar;Continent: AS;;2024-08-27 00:52:09
+Country: Bulgaria;Currency Name: Lev;Continent: EU;;2024-08-27 00:52:09
+Country: Burkina Faso;Currency Name: Franc;Continent: AF;;2024-08-27 00:52:09
+Country: Burundi;Currency Name: Franc;Continent: AF;;2024-08-27 00:52:09
+Country: Cambodia;Currency Name: Riels;Continent: AS;;2024-08-27 00:52:09
+Country: Cameroon;Currency Name: Franc;Continent: AF;;2024-08-27 00:52:09
+Country: Canada;Currency Name: Dollar;Continent: NA;;2024-08-27 00:52:09
+Country: Cape Verde;Currency Name: Escudo;Continent: AF;;2024-08-27 00:52:10
+Country: Cayman Islands;Currency Name: Dollar;Continent: NA;;2024-08-27 00:52:10
+Country: Central African Republic;Currency Name: Franc;Continent: AF;;2024-08-27 00:52:10
+Country: Chad;Currency Name: Franc;Continent: AF;;2024-08-27 00:52:10
+Country: Chile;Currency Name: Peso;Continent: SA;;2024-08-27 00:52:10
+Country: China;Currency Name: Yuan Renminbi;Continent: AS;;2024-08-27 00:52:10
+Country: Christmas Island;Currency Name: Dollar;Continent: AS;;2024-08-27 00:52:10
+Country: Cocos Islands;Currency Name: Dollar;Continent: AS;;2024-08-27 00:52:10
+Country: Colombia;Currency Name: Peso;Continent: SA;;2024-08-27 00:52:10
+Country: Comoros;Currency Name: Franc;Continent: AF;;2024-08-27 00:52:11
+Country: Cook Islands;Currency Name: Dollar;Continent: OC;;2024-08-27 00:52:11
+Country: Costa Rica;Currency Name: Colon;Continent: NA;;2024-08-27 00:52:11
+Country: Croatia;Currency Name: Kuna;Continent: EU;;2024-08-27 00:52:11
+Country: Cuba;Currency Name: Peso;Continent: NA;;2024-08-27 00:52:11
+Country: Curacao;Currency Name: Guilder;Continent: NA;;2024-08-27 00:52:11
+Country: Cyprus;Currency Name: Euro;Continent: EU;;2024-08-27 00:52:11
+Country: Czech Republic;Currency Name: Koruna;Continent: EU;;2024-08-27 00:52:11
+Country: Democratic Republic of the Congo;Currency Name: Franc;Continent: AF;;2024-08-27 00:52:12
+Country: Denmark;Currency Name: Krone;Continent: EU;;2024-08-27 00:52:12
+Country: Djibouti;Currency Name: Franc;Continent: AF;;2024-08-27 00:52:12
+Country: Dominica;Currency Name: Dollar;Continent: NA;;2024-08-27 00:52:12
+Country: Dominican Republic;Currency Name: Peso;Continent: NA;;2024-08-27 00:52:12
+Country: East Timor;Currency Name: Dollar;Continent: OC;;2024-08-27 00:52:12
+Country: Ecuador;Currency Name: Dollar;Continent: SA;;2024-08-27 00:52:12
+Country: Egypt;Currency Name: Pound;Continent: AF;;2024-08-27 00:52:12
+Country: El Salvador;Currency Name: Dollar;Continent: NA;;2024-08-27 00:52:13
+Country: Equatorial Guinea;Currency Name: Franc;Continent: AF;;2024-08-27 00:52:13
+Country: Eritrea;Currency Name: Nakfa;Continent: AF;;2024-08-27 00:52:13
+Country: Estonia;Currency Name: Euro;Continent: EU;;2024-08-27 00:52:13
+Country: Ethiopia;Currency Name: Birr;Continent: AF;;2024-08-27 00:52:13
+Country: Falkland Islands;Currency Name: Pound;Continent: SA;;2024-08-27 00:52:13
+Country: Faroe Islands;Currency Name: Krone;Continent: EU;;2024-08-27 00:52:13
+Country: Fiji;Currency Name: Dollar;Continent: OC;;2024-08-27 00:52:13
+Country: Finland;Currency Name: Euro;Continent: EU;;2024-08-27 00:52:14
+Country: France;Currency Name: Euro;Continent: EU;;2024-08-27 00:52:14
+Country: French Guiana;Currency Name: Euro;Continent: SA;;2024-08-27 00:52:14
+Country: French Polynesia;Currency Name: Franc;Continent: OC;;2024-08-27 00:52:14
+Country: French Southern Territories;Currency Name: Euro;Continent: AN;;2024-08-27 00:52:14
+Country: Gabon;Currency Name: Franc;Continent: AF;;2024-08-27 00:52:14
+Country: Gambia;Currency Name: Dalasi;Continent: AF;;2024-08-27 00:52:14
+Country: Georgia;Currency Name: Lari;Continent: AS;;2024-08-27 00:52:14
+Country: Germany;Currency Name: Euro;Continent: EU;;2024-08-27 00:52:14
+Country: Ghana;Currency Name: Cedi;Continent: AF;;2024-08-27 00:52:15
+Country: Gibraltar;Currency Name: Pound;Continent: EU;;2024-08-27 00:52:15
+Country: Greece;Currency Name: Euro;Continent: EU;;2024-08-27 00:52:15
+Country: Greenland;Currency Name: Krone;Continent: NA;;2024-08-27 00:52:15
+Country: Grenada;Currency Name: Dollar;Continent: NA;;2024-08-27 00:52:15
+Country: Guadeloupe;Currency Name: Euro;Continent: NA;;2024-08-27 00:52:15
+Country: Guam;Currency Name: Dollar;Continent: OC;;2024-08-27 00:52:15
+Country: Guatemala;Currency Name: Quetzal;Continent: NA;;2024-08-27 00:52:15
+Country: Guernsey;Currency Name: Pound;Continent: EU;;2024-08-27 00:52:15
+Country: Guinea;Currency Name: Franc;Continent: AF;;2024-08-27 00:52:16
+Country: Guinea-Bissau;Currency Name: Franc;Continent: AF;;2024-08-27 00:52:16
+Country: Guyana;Currency Name: Dollar;Continent: SA;;2024-08-27 00:52:16
+Country: Haiti;Currency Name: Gourde;Continent: NA;;2024-08-27 00:52:16
+Country: Heard Island and McDonald Islands;Currency Name: Dollar;Continent: AN;;2024-08-27 00:52:16
+Country: Honduras;Currency Name: Lempira;Continent: NA;;2024-08-27 00:52:16
+Country: Hong Kong;Currency Name: Dollar;Continent: AS;;2024-08-27 00:52:16
+Country: Hungary;Currency Name: Forint;Continent: EU;;2024-08-27 00:52:16
+Country: Iceland;Currency Name: Krona;Continent: EU;;2024-08-27 00:52:17
+Country: India;Currency Name: Rupee;Continent: AS;;2024-08-27 00:52:17
+Country: Indonesia;Currency Name: Rupiah;Continent: AS;;2024-08-27 00:52:17
+Country: Iran;Currency Name: Rial;Continent: AS;;2024-08-27 00:52:17
+Country: Iraq;Currency Name: Dinar;Continent: AS;;2024-08-27 00:52:17
+Country: Ireland;Currency Name: Euro;Continent: EU;;2024-08-27 00:52:17
+Country: Isle of Man;Currency Name: Pound;Continent: EU;;2024-08-27 00:52:17
+Country: Israel;Currency Name: Shekel;Continent: AS;;2024-08-27 00:52:17
+Country: Italy;Currency Name: Euro;Continent: EU;;2024-08-27 00:52:17
+Country: Ivory Coast;Currency Name: Franc;Continent: AF;;2024-08-27 00:52:17
+Country: Jamaica;Currency Name: Dollar;Continent: NA;;2024-08-27 00:52:18
+Country: Japan;Currency Name: Yen;Continent: AS;;2024-08-27 00:52:18
+Country: Jersey;Currency Name: Pound;Continent: EU;;2024-08-27 00:52:18
+Country: Jordan;Currency Name: Dinar;Continent: AS;;2024-08-27 00:52:18
+Country: Kazakhstan;Currency Name: Tenge;Continent: AS;;2024-08-27 00:52:18
+Country: Kenya;Currency Name: Shilling;Continent: AF;;2024-08-27 00:52:18
+Country: Kiribati;Currency Name: Dollar;Continent: OC;;2024-08-27 00:52:18
+Country: Kosovo;Currency Name: Euro;Continent: EU;;2024-08-27 00:52:18
+Country: Kuwait;Currency Name: Dinar;Continent: AS;;2024-08-27 00:52:19
+Country: Kyrgyzstan;Currency Name: Som;Continent: AS;;2024-08-27 00:52:19
+Country: Laos;Currency Name: Kip;Continent: AS;;2024-08-27 00:52:19
+Country: Latvia;Currency Name: Euro;Continent: EU;;2024-08-27 00:52:19
+Country: Lebanon;Currency Name: Pound;Continent: AS;;2024-08-27 00:52:19
+Country: Lesotho;Currency Name: Loti;Continent: AF;;2024-08-27 00:52:19
+Country: Liberia;Currency Name: Dollar;Continent: AF;;2024-08-27 00:52:19
+Country: Libya;Currency Name: Dinar;Continent: AF;;2024-08-27 00:52:19
+Country: Liechtenstein;Currency Name: Franc;Continent: EU;;2024-08-27 00:52:20
+Country: Lithuania;Currency Name: Litas;Continent: EU;;2024-08-27 00:52:20
+Country: Luxembourg;Currency Name: Euro;Continent: EU;;2024-08-27 00:52:20
+Country: Macao;Currency Name: Pataca;Continent: AS;;2024-08-27 00:52:20
+Country: Macedonia;Currency Name: Denar;Continent: EU;;2024-08-27 00:52:20
+Country: Madagascar;Currency Name: Ariary;Continent: AF;;2024-08-27 00:52:20
+Country: Malawi;Currency Name: Kwacha;Continent: AF;;2024-08-27 00:52:20
+Country: Malaysia;Currency Name: Ringgit;Continent: AS;;2024-08-27 00:52:20
+Country: Maldives;Currency Name: Rufiyaa;Continent: AS;;2024-08-27 00:52:21
+Country: Mali;Currency Name: Franc;Continent: AF;;2024-08-27 00:52:21
+Country: Malta;Currency Name: Euro;Continent: EU;;2024-08-27 00:52:21
+Country: Marshall Islands;Currency Name: Dollar;Continent: OC;;2024-08-27 00:52:21
+Country: Martinique;Currency Name: Euro;Continent: NA;;2024-08-27 00:52:21
+Country: Mauritania;Currency Name: Ouguiya;Continent: AF;;2024-08-27 00:52:21
+Country: Mauritius;Currency Name: Rupee;Continent: AF;;2024-08-27 00:52:21
+Country: Mayotte;Currency Name: Euro;Continent: AF;;2024-08-27 00:52:21
+Country: Mexico;Currency Name: Peso;Continent: NA;;2024-08-27 00:52:22
+Country: Micronesia;Currency Name: Dollar;Continent: OC;;2024-08-27 00:52:22
+Country: Moldova;Currency Name: Leu;Continent: EU;;2024-08-27 00:52:22
+Country: Monaco;Currency Name: Euro;Continent: EU;;2024-08-27 00:52:22
+Country: Mongolia;Currency Name: Tugrik;Continent: AS;;2024-08-27 00:52:22
+Country: Montenegro;Currency Name: Euro;Continent: EU;;2024-08-27 00:52:22
+Country: Montserrat;Currency Name: Dollar;Continent: NA;;2024-08-27 00:52:22
+Country: Morocco;Currency Name: Dirham;Continent: AF;;2024-08-27 00:52:22
+Country: Mozambique;Currency Name: Metical;Continent: AF;;2024-08-27 00:52:22
+Country: Myanmar;Currency Name: Kyat;Continent: AS;;2024-08-27 00:52:23
+Country: Namibia;Currency Name: Dollar;Continent: AF;;2024-08-27 00:52:23
+Country: Nauru;Currency Name: Dollar;Continent: OC;;2024-08-27 00:52:23
+Country: Nepal;Currency Name: Rupee;Continent: AS;;2024-08-27 00:52:23
+Country: Netherlands;Currency Name: Euro;Continent: EU;;2024-08-27 00:52:23
+Country: Netherlands Antilles;Currency Name: Guilder;Continent: NA;;2024-08-27 00:52:23
+Country: New Caledonia;Currency Name: Franc;Continent: OC;;2024-08-27 00:52:23
+Country: New Zealand;Currency Name: Dollar;Continent: OC;;2024-08-27 00:52:23
+Country: Nicaragua;Currency Name: Cordoba;Continent: NA;;2024-08-27 00:52:23
+Country: Niger;Currency Name: Franc;Continent: AF;;2024-08-27 00:52:24
+Country: Nigeria;Currency Name: Naira;Continent: AF;;2024-08-27 00:52:24
+Country: Niue;Currency Name: Dollar;Continent: OC;;2024-08-27 00:52:24
+Country: Norfolk Island;Currency Name: Dollar;Continent: OC;;2024-08-27 00:52:24
+Country: North Korea;Currency Name: Won;Continent: AS;;2024-08-27 00:52:24
+Country: Northern Mariana Islands;Currency Name: Dollar;Continent: OC;;2024-08-27 00:52:24
+Country: Norway;Currency Name: Krone;Continent: EU;;2024-08-27 00:52:24
+Country: Oman;Currency Name: Rial;Continent: AS;;2024-08-27 00:52:24
+Country: Pakistan;Currency Name: Rupee;Continent: AS;;2024-08-27 00:52:24
+Country: Palau;Currency Name: Dollar;Continent: OC;;2024-08-27 00:52:25
+Country: Palestinian Territory;Currency Name: Shekel;Continent: AS;;2024-08-27 00:52:25
+Country: Panama;Currency Name: Balboa;Continent: NA;;2024-08-27 00:52:25
+Country: Papua New Guinea;Currency Name: Kina;Continent: OC;;2024-08-27 00:52:25
+Country: Paraguay;Currency Name: Guarani;Continent: SA;;2024-08-27 00:52:25
+Country: Peru;Currency Name: Sol;Continent: SA;;2024-08-27 00:52:25
+Country: Philippines;Currency Name: Peso;Continent: AS;;2024-08-27 00:52:25
+Country: Pitcairn;Currency Name: Dollar;Continent: OC;;2024-08-27 00:52:25
+Country: Poland;Currency Name: Zloty;Continent: EU;;2024-08-27 00:52:26
+Country: Portugal;Currency Name: Euro;Continent: EU;;2024-08-27 00:52:26
+Country: Puerto Rico;Currency Name: Dollar;Continent: NA;;2024-08-27 00:52:26
+Country: Qatar;Currency Name: Rial;Continent: AS;;2024-08-27 00:52:26
+Country: Republic of the Congo;Currency Name: Franc;Continent: AF;;2024-08-27 00:52:26
+Country: Reunion;Currency Name: Euro;Continent: AF;;2024-08-27 00:52:26
+Country: Romania;Currency Name: Leu;Continent: EU;;2024-08-27 00:52:26
+Country: Russia;Currency Name: Ruble;Continent: EU;;2024-08-27 00:52:26
+Country: Rwanda;Currency Name: Franc;Continent: AF;;2024-08-27 00:52:26
+Country: Saint Barthelemy;Currency Name: Euro;Continent: NA;;2024-08-27 00:52:27
+Country: Saint Helena;Currency Name: Pound;Continent: AF;;2024-08-27 00:52:27
+Country: Saint Kitts and Nevis;Currency Name: Dollar;Continent: NA;;2024-08-27 00:52:27
+Country: Saint Lucia;Currency Name: Dollar;Continent: NA;;2024-08-27 00:52:27
+Country: Saint Martin;Currency Name: Euro;Continent: NA;;2024-08-27 00:52:27
+Country: Saint Pierre and Miquelon;Currency Name: Euro;Continent: NA;;2024-08-27 00:52:27
+Country: Saint Vincent and the Grenadines;Currency Name: Dollar;Continent: NA;;2024-08-27 00:52:27
+Country: Samoa;Currency Name: Tala;Continent: OC;;2024-08-27 00:52:27
+Country: San Marino;Currency Name: Euro;Continent: EU;;2024-08-27 00:52:28
+Country: Sao Tome and Principe;Currency Name: Dobra;Continent: AF;;2024-08-27 00:52:28
+Country: Saudi Arabia;Currency Name: Rial;Continent: AS;;2024-08-27 00:52:28
+Country: Senegal;Currency Name: Franc;Continent: AF;;2024-08-27 00:52:28
+Country: Serbia;Currency Name: Dinar;Continent: EU;;2024-08-27 00:52:28
+Country: Serbia and Montenegro;Currency Name: Dinar;Continent: EU;;2024-08-27 00:52:28
+Country: Seychelles;Currency Name: Rupee;Continent: AF;;2024-08-27 00:52:28
+Country: Sierra Leone;Currency Name: Leone;Continent: AF;;2024-08-27 00:52:28
+Country: Singapore;Currency Name: Dollar;Continent: AS;;2024-08-27 00:52:28
+Country: Sint Maarten;Currency Name: Guilder;Continent: NA;;2024-08-27 00:52:29
+Country: Slovakia;Currency Name: Euro;Continent: EU;;2024-08-27 00:52:29
+Country: Slovenia;Currency Name: Euro;Continent: EU;;2024-08-27 00:52:29
+Country: Solomon Islands;Currency Name: Dollar;Continent: OC;;2024-08-27 00:52:29
+Country: Somalia;Currency Name: Shilling;Continent: AF;;2024-08-27 00:52:29
+Country: South Africa;Currency Name: Rand;Continent: AF;;2024-08-27 00:52:29
+Country: South Georgia and the South Sandwich Islands;Currency Name: Pound;Continent: AN;;2024-08-27 00:52:29
+Country: South Korea;Currency Name: Won;Continent: AS;;2024-08-27 00:52:29
+Country: South Sudan;Currency Name: Pound;Continent: AF;;2024-08-27 00:52:30
+Country: Spain;Currency Name: Euro;Continent: EU;;2024-08-27 00:52:30
+Country: Sri Lanka;Currency Name: Rupee;Continent: AS;;2024-08-27 00:52:30
+Country: Sudan;Currency Name: Pound;Continent: AF;;2024-08-27 00:52:30
+Country: Suriname;Currency Name: Dollar;Continent: SA;;2024-08-27 00:52:30
+Country: Svalbard and Jan Mayen;Currency Name: Krone;Continent: EU;;2024-08-27 00:52:30
+Country: Swaziland;Currency Name: Lilangeni;Continent: AF;;2024-08-27 00:52:30
+Country: Sweden;Currency Name: Krona;Continent: EU;;2024-08-27 00:52:30
+Country: Switzerland;Currency Name: Franc;Continent: EU;;2024-08-27 00:52:30
+Country: Syria;Currency Name: Pound;Continent: AS;;2024-08-27 00:52:31
+Country: Taiwan;Currency Name: Dollar;Continent: AS;;2024-08-27 00:52:31
+Country: Tajikistan;Currency Name: Somoni;Continent: AS;;2024-08-27 00:52:31
+Country: Tanzania;Currency Name: Shilling;Continent: AF;;2024-08-27 00:52:31
+Country: Thailand;Currency Name: Baht;Continent: AS;;2024-08-27 00:52:31
+Country: Togo;Currency Name: Franc;Continent: AF;;2024-08-27 00:52:31
+Country: Tokelau;Currency Name: Dollar;Continent: OC;;2024-08-27 00:52:31
+Country: Tonga;Currency Name: Pa'anga;Continent: OC;;2024-08-27 00:52:31
+Country: Trinidad and Tobago;Currency Name: Dollar;Continent: NA;;2024-08-27 00:52:31
+Country: Tunisia;Currency Name: Dinar;Continent: AF;;2024-08-27 00:52:32
+Country: Turkey;Currency Name: Lira;Continent: AS;;2024-08-27 00:52:32
+Country: Turkmenistan;Currency Name: Manat;Continent: AS;;2024-08-27 00:52:32
+Country: Turks and Caicos Islands;Currency Name: Dollar;Continent: NA;;2024-08-27 00:52:32
+Country: Tuvalu;Currency Name: Dollar;Continent: OC;;2024-08-27 00:52:32
+Country: U.S. Virgin Islands;Currency Name: Dollar;Continent: NA;;2024-08-27 00:52:32
+Country: Uganda;Currency Name: Shilling;Continent: AF;;2024-08-27 00:52:32
+Country: Ukraine;Currency Name: Hryvnia;Continent: EU;;2024-08-27 00:52:32
+Country: United Arab Emirates;Currency Name: Dirham;Continent: AS;;2024-08-27 00:52:33
+Country: United Kingdom;Currency Name: Pound;Continent: EU;;2024-08-27 00:52:33
+Country: United States;Currency Name: Dollar;Continent: NA;;2024-08-27 00:52:33
+Country: United States Minor Outlying Islands;Currency Name: Dollar;Continent: OC;;2024-08-27 00:52:33
+Country: Uruguay;Currency Name: Peso;Continent: SA;;2024-08-27 00:52:33
+Country: Uzbekistan;Currency Name: Som;Continent: AS;;2024-08-27 00:52:33
+Country: Vanuatu;Currency Name: Vatu;Continent: OC;;2024-08-27 00:52:33
+Country: Vatican;Currency Name: Euro;Continent: EU;;2024-08-27 00:52:33
+Country: Venezuela;Currency Name: Bolivar;Continent: SA;;2024-08-27 00:52:33
+Country: Vietnam;Currency Name: Dong;Continent: AS;;2024-08-27 00:52:34
+Country: Wallis and Futuna;Currency Name: Franc;Continent: OC;;2024-08-27 00:52:34
+Country: Western Sahara;Currency Name: Dirham;Continent: AF;;2024-08-27 00:52:34
+Country: Yemen;Currency Name: Rial;Continent: AS;;2024-08-27 00:52:34
+Country: Zambia;Currency Name: Kwacha;Continent: AF;;2024-08-27 00:52:34
+Country: Zimbabwe;Currency Name: Dollar;Continent: AF;;2024-08-27 00:52:34
+Afghanistan;Afghani;AS;;2024-08-27 01:02:27
+Aland Islands;Euro;EU;;2024-08-27 01:02:27
+Albania;Lek;EU;;2024-08-27 01:02:27
+Algeria;Dinar;AF;;2024-08-27 01:02:27
+American Samoa;Dollar;OC;;2024-08-27 01:02:27
+Andorra;Euro;EU;;2024-08-27 01:02:27
+Angola;Kwanza;AF;;2024-08-27 01:02:27
+Anguilla;Dollar;NA;;2024-08-27 01:02:27
+Antarctica;;AN;;2024-08-27 01:02:27
+Antigua and Barbuda;Dollar;NA;;2024-08-27 01:02:27
+Argentina;Peso;SA;;2024-08-27 01:02:28
+Armenia;Dram;AS;;2024-08-27 01:02:28
+Aruba;Guilder;NA;;2024-08-27 01:02:28
+Australia;Dollar;OC;;2024-08-27 01:02:28
+Austria;Euro;EU;;2024-08-27 01:02:28
+Azerbaijan;Manat;AS;;2024-08-27 01:02:28
+Bahamas;Dollar;NA;;2024-08-27 01:02:28
+Bahrain;Dinar;AS;;2024-08-27 01:02:28
+Bangladesh;Taka;AS;;2024-08-27 01:02:28
+Barbados;Dollar;NA;;2024-08-27 01:02:29
+Belarus;Ruble;EU;;2024-08-27 01:02:29
+Belgium;Euro;EU;;2024-08-27 01:02:29
+Belize;Dollar;NA;;2024-08-27 01:02:29
+Benin;Franc;AF;;2024-08-27 01:02:30
+Bermuda;Dollar;NA;;2024-08-27 01:02:30
+Bhutan;Ngultrum;AS;;2024-08-27 01:02:30
+Bolivia;Boliviano;SA;;2024-08-27 01:02:30
+Bonaire, Saint Eustatius and Saba;Dollar;NA;;2024-08-27 01:02:30
+Bosnia and Herzegovina;Marka;EU;;2024-08-27 01:02:30
+Botswana;Pula;AF;;2024-08-27 01:02:30
+Bouvet Island;Krone;AN;;2024-08-27 01:02:31
+Brazil;Real;SA;;2024-08-27 01:02:31
+British Indian Ocean Territory;Dollar;AS;;2024-08-27 01:02:31
+British Virgin Islands;Dollar;NA;;2024-08-27 01:02:31
+Brunei;Dollar;AS;;2024-08-27 01:02:31
+Bulgaria;Lev;EU;;2024-08-27 01:02:31
+Burkina Faso;Franc;AF;;2024-08-27 01:02:31
+Burundi;Franc;AF;;2024-08-27 01:02:31
+Cambodia;Riels;AS;;2024-08-27 01:02:31
+Cameroon;Franc;AF;;2024-08-27 01:02:32
+Canada;Dollar;NA;;2024-08-27 01:02:32
+Cape Verde;Escudo;AF;;2024-08-27 01:02:32
+Cayman Islands;Dollar;NA;;2024-08-27 01:02:32
+Central African Republic;Franc;AF;;2024-08-27 01:02:32
+Chad;Franc;AF;;2024-08-27 01:02:32
+Chile;Peso;SA;;2024-08-27 01:02:32
+China;Yuan Renminbi;AS;;2024-08-27 01:02:32
+Christmas Island;Dollar;AS;;2024-08-27 01:02:33
+Cocos Islands;Dollar;AS;;2024-08-27 01:02:33
+Colombia;Peso;SA;;2024-08-27 01:02:33
+Comoros;Franc;AF;;2024-08-27 01:02:33
+Cook Islands;Dollar;OC;;2024-08-27 01:02:33
+Costa Rica;Colon;NA;;2024-08-27 01:02:33
+Croatia;Kuna;EU;;2024-08-27 01:02:33
+Cuba;Peso;NA;;2024-08-27 01:02:33
+Curacao;Guilder;NA;;2024-08-27 01:02:33
+Cyprus;Euro;EU;;2024-08-27 01:02:34
+Czech Republic;Koruna;EU;;2024-08-27 01:02:34
+Democratic Republic of the Congo;Franc;AF;;2024-08-27 01:02:34
+Denmark;Krone;EU;;2024-08-27 01:02:34
+Djibouti;Franc;AF;;2024-08-27 01:02:34
+Dominica;Dollar;NA;;2024-08-27 01:02:34
+Dominican Republic;Peso;NA;;2024-08-27 01:02:34
+East Timor;Dollar;OC;;2024-08-27 01:02:34
+Ecuador;Dollar;SA;;2024-08-27 01:02:35
+Egypt;Pound;AF;;2024-08-27 01:02:35
+El Salvador;Dollar;NA;;2024-08-27 01:02:35
+Equatorial Guinea;Franc;AF;;2024-08-27 01:02:35
+Eritrea;Nakfa;AF;;2024-08-27 01:02:35
+Estonia;Euro;EU;;2024-08-27 01:02:35
+Ethiopia;Birr;AF;;2024-08-27 01:02:35
+Falkland Islands;Pound;SA;;2024-08-27 01:02:35
+Faroe Islands;Krone;EU;;2024-08-27 01:02:36
+Fiji;Dollar;OC;;2024-08-27 01:02:36
+Finland;Euro;EU;;2024-08-27 01:02:36
+France;Euro;EU;;2024-08-27 01:02:36
+French Guiana;Euro;SA;;2024-08-27 01:02:36
+French Polynesia;Franc;OC;;2024-08-27 01:02:36
+French Southern Territories;Euro;AN;;2024-08-27 01:02:36
+Gabon;Franc;AF;;2024-08-27 01:02:36
+Gambia;Dalasi;AF;;2024-08-27 01:02:37
+Georgia;Lari;AS;;2024-08-27 01:02:37
+Germany;Euro;EU;;2024-08-27 01:02:37
+Ghana;Cedi;AF;;2024-08-27 01:02:37
+Gibraltar;Pound;EU;;2024-08-27 01:02:37
+Greece;Euro;EU;;2024-08-27 01:02:37
+Greenland;Krone;NA;;2024-08-27 01:02:37
+Grenada;Dollar;NA;;2024-08-27 01:02:37
+Guadeloupe;Euro;NA;;2024-08-27 01:02:37
+Guam;Dollar;OC;;2024-08-27 01:02:37
+Guatemala;Quetzal;NA;;2024-08-27 01:02:38
+Guernsey;Pound;EU;;2024-08-27 01:02:38
+Guinea;Franc;AF;;2024-08-27 01:02:38
+Guinea-Bissau;Franc;AF;;2024-08-27 01:02:38
+Guyana;Dollar;SA;;2024-08-27 01:02:38
+Haiti;Gourde;NA;;2024-08-27 01:02:38
+Heard Island and McDonald Islands;Dollar;AN;;2024-08-27 01:02:38
+Honduras;Lempira;NA;;2024-08-27 01:02:38
+Hong Kong;Dollar;AS;;2024-08-27 01:02:39
+Hungary;Forint;EU;;2024-08-27 01:02:39
+Iceland;Krona;EU;;2024-08-27 01:02:39
+India;Rupee;AS;;2024-08-27 01:02:39
+Indonesia;Rupiah;AS;;2024-08-27 01:02:39
+Iran;Rial;AS;;2024-08-27 01:02:39
+Iraq;Dinar;AS;;2024-08-27 01:02:39
+Ireland;Euro;EU;;2024-08-27 01:02:39
+Isle of Man;Pound;EU;;2024-08-27 01:02:39
+Israel;Shekel;AS;;2024-08-27 01:02:40
+Italy;Euro;EU;;2024-08-27 01:02:40
+Ivory Coast;Franc;AF;;2024-08-27 01:02:40
+Jamaica;Dollar;NA;;2024-08-27 01:02:40
+Japan;Yen;AS;;2024-08-27 01:02:40
+Jersey;Pound;EU;;2024-08-27 01:02:40
+Jordan;Dinar;AS;;2024-08-27 01:02:40
+Kazakhstan;Tenge;AS;;2024-08-27 01:02:40
+Kenya;Shilling;AF;;2024-08-27 01:02:41
+Kiribati;Dollar;OC;;2024-08-27 01:02:41
+Kosovo;Euro;EU;;2024-08-27 01:02:41
+Kuwait;Dinar;AS;;2024-08-27 01:02:41
+Kyrgyzstan;Som;AS;;2024-08-27 01:02:41
+Laos;Kip;AS;;2024-08-27 01:02:41
+Latvia;Euro;EU;;2024-08-27 01:02:41
+Lebanon;Pound;AS;;2024-08-27 01:02:41
+Lesotho;Loti;AF;;2024-08-27 01:02:41
+Liberia;Dollar;AF;;2024-08-27 01:02:42
+Libya;Dinar;AF;;2024-08-27 01:02:42
+Liechtenstein;Franc;EU;;2024-08-27 01:02:42
+Lithuania;Litas;EU;;2024-08-27 01:02:42
+Luxembourg;Euro;EU;;2024-08-27 01:02:42
+Macao;Pataca;AS;;2024-08-27 01:02:42
+Macedonia;Denar;EU;;2024-08-27 01:02:42
+Madagascar;Ariary;AF;;2024-08-27 01:02:42
+Malawi;Kwacha;AF;;2024-08-27 01:02:43
+Malaysia;Ringgit;AS;;2024-08-27 01:02:43
+Maldives;Rufiyaa;AS;;2024-08-27 01:02:43
+Mali;Franc;AF;;2024-08-27 01:02:43
+Malta;Euro;EU;;2024-08-27 01:02:43
+Marshall Islands;Dollar;OC;;2024-08-27 01:02:43
+Martinique;Euro;NA;;2024-08-27 01:02:43
+Mauritania;Ouguiya;AF;;2024-08-27 01:02:43
+Mauritius;Rupee;AF;;2024-08-27 01:02:44
+Mayotte;Euro;AF;;2024-08-27 01:02:44
+Mexico;Peso;NA;;2024-08-27 01:02:44
+Micronesia;Dollar;OC;;2024-08-27 01:02:44
+Moldova;Leu;EU;;2024-08-27 01:02:44
+Monaco;Euro;EU;;2024-08-27 01:02:44
+Mongolia;Tugrik;AS;;2024-08-27 01:02:44
+Montenegro;Euro;EU;;2024-08-27 01:02:44
+Montserrat;Dollar;NA;;2024-08-27 01:02:45
+Morocco;Dirham;AF;;2024-08-27 01:02:45
+Mozambique;Metical;AF;;2024-08-27 01:02:45
+Myanmar;Kyat;AS;;2024-08-27 01:02:45
+Namibia;Dollar;AF;;2024-08-27 01:02:45
+Nauru;Dollar;OC;;2024-08-27 01:02:45
+Nepal;Rupee;AS;;2024-08-27 01:02:45
+Netherlands;Euro;EU;;2024-08-27 01:02:46
+Netherlands Antilles;Guilder;NA;;2024-08-27 01:02:46
+New Caledonia;Franc;OC;;2024-08-27 01:02:46
+New Zealand;Dollar;OC;;2024-08-27 01:02:46
+Nicaragua;Cordoba;NA;;2024-08-27 01:02:46
+Niger;Franc;AF;;2024-08-27 01:02:46
+Nigeria;Naira;AF;;2024-08-27 01:02:46
+Niue;Dollar;OC;;2024-08-27 01:02:46
+Norfolk Island;Dollar;OC;;2024-08-27 01:02:47
+North Korea;Won;AS;;2024-08-27 01:02:47
+Northern Mariana Islands;Dollar;OC;;2024-08-27 01:02:47
+Norway;Krone;EU;;2024-08-27 01:02:47
+Oman;Rial;AS;;2024-08-27 01:02:47
+Pakistan;Rupee;AS;;2024-08-27 01:02:47
+Palau;Dollar;OC;;2024-08-27 01:02:47
+Palestinian Territory;Shekel;AS;;2024-08-27 01:02:47
+Panama;Balboa;NA;;2024-08-27 01:02:48
+Papua New Guinea;Kina;OC;;2024-08-27 01:02:48
+Paraguay;Guarani;SA;;2024-08-27 01:02:48
+Peru;Sol;SA;;2024-08-27 01:02:48
+Philippines;Peso;AS;;2024-08-27 01:02:48
+Pitcairn;Dollar;OC;;2024-08-27 01:02:48
+Poland;Zloty;EU;;2024-08-27 01:02:48
+Portugal;Euro;EU;;2024-08-27 01:02:48
+Puerto Rico;Dollar;NA;;2024-08-27 01:02:48
+Qatar;Rial;AS;;2024-08-27 01:02:49
+Republic of the Congo;Franc;AF;;2024-08-27 01:02:49
+Reunion;Euro;AF;;2024-08-27 01:02:49
+Romania;Leu;EU;;2024-08-27 01:02:49
+Russia;Ruble;EU;;2024-08-27 01:02:49
+Rwanda;Franc;AF;;2024-08-27 01:02:49
+Saint Barthelemy;Euro;NA;;2024-08-27 01:02:49
+Saint Helena;Pound;AF;;2024-08-27 01:02:49
+Saint Kitts and Nevis;Dollar;NA;;2024-08-27 01:02:50
+Saint Lucia;Dollar;NA;;2024-08-27 01:02:50
+Saint Martin;Euro;NA;;2024-08-27 01:02:50
+Saint Pierre and Miquelon;Euro;NA;;2024-08-27 01:02:50
+Saint Vincent and the Grenadines;Dollar;NA;;2024-08-27 01:02:50
+Samoa;Tala;OC;;2024-08-27 01:02:50
+San Marino;Euro;EU;;2024-08-27 01:02:50
+Sao Tome and Principe;Dobra;AF;;2024-08-27 01:02:50
+Saudi Arabia;Rial;AS;;2024-08-27 01:02:51
+Senegal;Franc;AF;;2024-08-27 01:02:51
+Serbia;Dinar;EU;;2024-08-27 01:02:51
+Serbia and Montenegro;Dinar;EU;;2024-08-27 01:02:51
+Seychelles;Rupee;AF;;2024-08-27 01:02:51
+Sierra Leone;Leone;AF;;2024-08-27 01:02:51
+Singapore;Dollar;AS;;2024-08-27 01:02:52
+Sint Maarten;Guilder;NA;;2024-08-27 01:02:52
+Slovakia;Euro;EU;;2024-08-27 01:02:52
+Slovenia;Euro;EU;;2024-08-27 01:02:52
+Solomon Islands;Dollar;OC;;2024-08-27 01:02:52
+Somalia;Shilling;AF;;2024-08-27 01:02:52
+South Africa;Rand;AF;;2024-08-27 01:02:52
+South Georgia and the South Sandwich Islands;Pound;AN;;2024-08-27 01:02:52
+South Korea;Won;AS;;2024-08-27 01:02:53
+South Sudan;Pound;AF;;2024-08-27 01:02:53
+Spain;Euro;EU;;2024-08-27 01:02:53
+Sri Lanka;Rupee;AS;;2024-08-27 01:02:53
+Sudan;Pound;AF;;2024-08-27 01:02:53
+Suriname;Dollar;SA;;2024-08-27 01:02:53
+Svalbard and Jan Mayen;Krone;EU;;2024-08-27 01:02:53
+Swaziland;Lilangeni;AF;;2024-08-27 01:02:53
+Sweden;Krona;EU;;2024-08-27 01:02:53
+Switzerland;Franc;EU;;2024-08-27 01:02:53
+Syria;Pound;AS;;2024-08-27 01:02:54
+Taiwan;Dollar;AS;;2024-08-27 01:02:54
+Tajikistan;Somoni;AS;;2024-08-27 01:02:54
+Tanzania;Shilling;AF;;2024-08-27 01:02:54
+Thailand;Baht;AS;;2024-08-27 01:02:54
+Togo;Franc;AF;;2024-08-27 01:02:54
+Tokelau;Dollar;OC;;2024-08-27 01:02:54
+Tonga;Pa'anga;OC;;2024-08-27 01:02:54
+Trinidad and Tobago;Dollar;NA;;2024-08-27 01:02:55
+Tunisia;Dinar;AF;;2024-08-27 01:02:55
+Turkey;Lira;AS;;2024-08-27 01:02:55
+Turkmenistan;Manat;AS;;2024-08-27 01:02:55
+Turks and Caicos Islands;Dollar;NA;;2024-08-27 01:02:55
+Tuvalu;Dollar;OC;;2024-08-27 01:02:55
+U.S. Virgin Islands;Dollar;NA;;2024-08-27 01:02:55
+Uganda;Shilling;AF;;2024-08-27 01:02:55
+Ukraine;Hryvnia;EU;;2024-08-27 01:02:56
+United Arab Emirates;Dirham;AS;;2024-08-27 01:02:56
+United Kingdom;Pound;EU;;2024-08-27 01:02:56
+United States;Dollar;NA;;2024-08-27 01:02:56
+United States Minor Outlying Islands;Dollar;OC;;2024-08-27 01:02:56
+Uruguay;Peso;SA;;2024-08-27 01:02:56
+Uzbekistan;Som;AS;;2024-08-27 01:02:56
+Vanuatu;Vatu;OC;;2024-08-27 01:02:56
+Vatican;Euro;EU;;2024-08-27 01:02:57
+Venezuela;Bolivar;SA;;2024-08-27 01:02:57
+Vietnam;Dong;AS;;2024-08-27 01:02:57
+Wallis and Futuna;Franc;OC;;2024-08-27 01:02:57
+Western Sahara;Dirham;AF;;2024-08-27 01:02:57
+Yemen;Rial;AS;;2024-08-27 01:02:57
+Zambia;Kwacha;AF;;2024-08-27 01:02:57
+Zimbabwe;Dollar;AF;;2024-08-27 01:02:57
+Afghanistan;Afghani;AS;;2024-08-27 01:08:56
+Aland Islands;Euro;EU;;2024-08-27 01:08:57
+Albania;Lek;EU;;2024-08-27 01:08:57
+Algeria;Dinar;AF;;2024-08-27 01:08:57
+American Samoa;Dollar;OC;;2024-08-27 01:08:57
+Andorra;Euro;EU;;2024-08-27 01:08:57
+Angola;Kwanza;AF;;2024-08-27 01:08:57
+Anguilla;Dollar;NA;;2024-08-27 01:08:57
+Antarctica;;AN;;2024-08-27 01:08:57
+Antigua and Barbuda;Dollar;NA;;2024-08-27 01:08:57
+Argentina;Peso;SA;;2024-08-27 01:08:58
+Armenia;Dram;AS;;2024-08-27 01:08:58
+Aruba;Guilder;NA;;2024-08-27 01:08:58
+Australia;Dollar;OC;;2024-08-27 01:08:58
+Austria;Euro;EU;;2024-08-27 01:08:58
+Azerbaijan;Manat;AS;;2024-08-27 01:08:58
+Bahamas;Dollar;NA;;2024-08-27 01:08:58
+Bahrain;Dinar;AS;;2024-08-27 01:08:59
+Bangladesh;Taka;AS;;2024-08-27 01:08:59
+Barbados;Dollar;NA;;2024-08-27 01:08:59
+Belarus;Ruble;EU;;2024-08-27 01:08:59
+Belgium;Euro;EU;;2024-08-27 01:08:59
+Belize;Dollar;NA;;2024-08-27 01:08:59
+Benin;Franc;AF;;2024-08-27 01:08:59
+Bermuda;Dollar;NA;;2024-08-27 01:08:59
+Bhutan;Ngultrum;AS;;2024-08-27 01:08:59
+Bolivia;Boliviano;SA;;2024-08-27 01:09:00
+Bonaire, Saint Eustatius and Saba;Dollar;NA;;2024-08-27 01:09:00
+Bosnia and Herzegovina;Marka;EU;;2024-08-27 01:09:00
+Botswana;Pula;AF;;2024-08-27 01:09:00
+Bouvet Island;Krone;AN;;2024-08-27 01:09:00
+Brazil;Real;SA;;2024-08-27 01:09:00
+British Indian Ocean Territory;Dollar;AS;;2024-08-27 01:09:00
+British Virgin Islands;Dollar;NA;;2024-08-27 01:09:00
+Brunei;Dollar;AS;;2024-08-27 01:09:01
+Bulgaria;Lev;EU;;2024-08-27 01:09:01
+Burkina Faso;Franc;AF;;2024-08-27 01:09:01
+Burundi;Franc;AF;;2024-08-27 01:09:01
+Cambodia;Riels;AS;;2024-08-27 01:09:01
+Cameroon;Franc;AF;;2024-08-27 01:09:01
+Canada;Dollar;NA;;2024-08-27 01:09:01
+Cape Verde;Escudo;AF;;2024-08-27 01:09:01
+Cayman Islands;Dollar;NA;;2024-08-27 01:09:01
+Central African Republic;Franc;AF;;2024-08-27 01:09:02
+Chad;Franc;AF;;2024-08-27 01:09:02
+Chile;Peso;SA;;2024-08-27 01:09:02
+China;Yuan Renminbi;AS;;2024-08-27 01:09:02
+Christmas Island;Dollar;AS;;2024-08-27 01:09:02
+Cocos Islands;Dollar;AS;;2024-08-27 01:09:02
+Colombia;Peso;SA;;2024-08-27 01:09:02
+Comoros;Franc;AF;;2024-08-27 01:09:02
+Cook Islands;Dollar;OC;;2024-08-27 01:09:03
+Costa Rica;Colon;NA;;2024-08-27 01:09:03
+Croatia;Kuna;EU;;2024-08-27 01:09:03
+Cuba;Peso;NA;;2024-08-27 01:09:03
+Curacao;Guilder;NA;;2024-08-27 01:09:03
+Cyprus;Euro;EU;;2024-08-27 01:09:03
+Czech Republic;Koruna;EU;;2024-08-27 01:09:03
+Democratic Republic of the Congo;Franc;AF;;2024-08-27 01:09:03
+Denmark;Krone;EU;;2024-08-27 01:09:03
+Djibouti;Franc;AF;;2024-08-27 01:09:04
+Dominica;Dollar;NA;;2024-08-27 01:09:04
+Dominican Republic;Peso;NA;;2024-08-27 01:09:04
+East Timor;Dollar;OC;;2024-08-27 01:09:04
+Ecuador;Dollar;SA;;2024-08-27 01:09:04
+Egypt;Pound;AF;;2024-08-27 01:09:04
+El Salvador;Dollar;NA;;2024-08-27 01:09:04
+Equatorial Guinea;Franc;AF;;2024-08-27 01:09:04
+Eritrea;Nakfa;AF;;2024-08-27 01:09:04
+Estonia;Euro;EU;;2024-08-27 01:09:05
+Ethiopia;Birr;AF;;2024-08-27 01:09:05
+Falkland Islands;Pound;SA;;2024-08-27 01:09:05
+Faroe Islands;Krone;EU;;2024-08-27 01:09:05
+Fiji;Dollar;OC;;2024-08-27 01:09:05
+Finland;Euro;EU;;2024-08-27 01:09:05
+France;Euro;EU;;2024-08-27 01:09:05
+French Guiana;Euro;SA;;2024-08-27 01:09:06
+French Polynesia;Franc;OC;;2024-08-27 01:09:06
+French Southern Territories;Euro;AN;;2024-08-27 01:09:06
+Gabon;Franc;AF;;2024-08-27 01:09:06
+Gambia;Dalasi;AF;;2024-08-27 01:09:06
+Georgia;Lari;AS;;2024-08-27 01:09:06
+Germany;Euro;EU;;2024-08-27 01:09:06
+Ghana;Cedi;AF;;2024-08-27 01:09:06
+Gibraltar;Pound;EU;;2024-08-27 01:09:06
+Greece;Euro;EU;;2024-08-27 01:09:07
+Greenland;Krone;NA;;2024-08-27 01:09:07
+Grenada;Dollar;NA;;2024-08-27 01:09:07
+Guadeloupe;Euro;NA;;2024-08-27 01:09:07
+Guam;Dollar;OC;;2024-08-27 01:09:07
+Guatemala;Quetzal;NA;;2024-08-27 01:09:07
+Guernsey;Pound;EU;;2024-08-27 01:09:07
+Guinea;Franc;AF;;2024-08-27 01:09:07
+Guinea-Bissau;Franc;AF;;2024-08-27 01:09:08
+Guyana;Dollar;SA;;2024-08-27 01:09:08
+Haiti;Gourde;NA;;2024-08-27 01:09:08
+Heard Island and McDonald Islands;Dollar;AN;;2024-08-27 01:09:08
+Honduras;Lempira;NA;;2024-08-27 01:09:08
+Hong Kong;Dollar;AS;;2024-08-27 01:09:08
+Hungary;Forint;EU;;2024-08-27 01:09:08
+Iceland;Krona;EU;;2024-08-27 01:09:08
+India;Rupee;AS;;2024-08-27 01:09:08
+Indonesia;Rupiah;AS;;2024-08-27 01:09:09
+Iran;Rial;AS;;2024-08-27 01:09:09
+Iraq;Dinar;AS;;2024-08-27 01:09:09
+Ireland;Euro;EU;;2024-08-27 01:09:09
+Isle of Man;Pound;EU;;2024-08-27 01:09:09
+Israel;Shekel;AS;;2024-08-27 01:09:09
+Italy;Euro;EU;;2024-08-27 01:09:09
+Ivory Coast;Franc;AF;;2024-08-27 01:09:09
+Jamaica;Dollar;NA;;2024-08-27 01:09:10
+Japan;Yen;AS;;2024-08-27 01:09:10
+Jersey;Pound;EU;;2024-08-27 01:09:10
+Jordan;Dinar;AS;;2024-08-27 01:09:10
+Kazakhstan;Tenge;AS;;2024-08-27 01:09:10
+Kenya;Shilling;AF;;2024-08-27 01:09:10
+Kiribati;Dollar;OC;;2024-08-27 01:09:10
+Kosovo;Euro;EU;;2024-08-27 01:09:10
+Kuwait;Dinar;AS;;2024-08-27 01:09:10
+Kyrgyzstan;Som;AS;;2024-08-27 01:09:10
+Laos;Kip;AS;;2024-08-27 01:09:11
+Latvia;Euro;EU;;2024-08-27 01:09:11
+Lebanon;Pound;AS;;2024-08-27 01:09:11
+Lesotho;Loti;AF;;2024-08-27 01:09:11
+Liberia;Dollar;AF;;2024-08-27 01:09:11
+Libya;Dinar;AF;;2024-08-27 01:09:11
+Liechtenstein;Franc;EU;;2024-08-27 01:09:11
+Lithuania;Litas;EU;;2024-08-27 01:09:11
+Luxembourg;Euro;EU;;2024-08-27 01:09:12
+Macao;Pataca;AS;;2024-08-27 01:09:12
+Macedonia;Denar;EU;;2024-08-27 01:09:12
+Madagascar;Ariary;AF;;2024-08-27 01:09:12
+Malawi;Kwacha;AF;;2024-08-27 01:09:12
+Malaysia;Ringgit;AS;;2024-08-27 01:09:12
+Maldives;Rufiyaa;AS;;2024-08-27 01:09:12
+Mali;Franc;AF;;2024-08-27 01:09:12
+Malta;Euro;EU;;2024-08-27 01:09:13
+Marshall Islands;Dollar;OC;;2024-08-27 01:09:13
+Martinique;Euro;NA;;2024-08-27 01:09:13
+Mauritania;Ouguiya;AF;;2024-08-27 01:09:13
+Mauritius;Rupee;AF;;2024-08-27 01:09:13
+Mayotte;Euro;AF;;2024-08-27 01:09:13
+Mexico;Peso;NA;;2024-08-27 01:09:13
+Micronesia;Dollar;OC;;2024-08-27 01:09:13
+Moldova;Leu;EU;;2024-08-27 01:09:13
+Monaco;Euro;EU;;2024-08-27 01:09:14
+Mongolia;Tugrik;AS;;2024-08-27 01:09:14
+Montenegro;Euro;EU;;2024-08-27 01:09:14
+Montserrat;Dollar;NA;;2024-08-27 01:09:14
+Morocco;Dirham;AF;;2024-08-27 01:09:14
+Mozambique;Metical;AF;;2024-08-27 01:09:14
+Myanmar;Kyat;AS;;2024-08-27 01:09:14
+Namibia;Dollar;AF;;2024-08-27 01:09:14
+Nauru;Dollar;OC;;2024-08-27 01:09:15
+Nepal;Rupee;AS;;2024-08-27 01:09:15
+Netherlands;Euro;EU;;2024-08-27 01:09:15
+Netherlands Antilles;Guilder;NA;;2024-08-27 01:09:15
+New Caledonia;Franc;OC;;2024-08-27 01:09:15
+New Zealand;Dollar;OC;;2024-08-27 01:09:15
+Nicaragua;Cordoba;NA;;2024-08-27 01:09:15
+Niger;Franc;AF;;2024-08-27 01:09:15
+Nigeria;Naira;AF;;2024-08-27 01:09:16
+Niue;Dollar;OC;;2024-08-27 01:09:16
+Norfolk Island;Dollar;OC;;2024-08-27 01:09:16
+North Korea;Won;AS;;2024-08-27 01:09:16
+Northern Mariana Islands;Dollar;OC;;2024-08-27 01:09:16
+Norway;Krone;EU;;2024-08-27 01:09:16
+Oman;Rial;AS;;2024-08-27 01:09:16
+Pakistan;Rupee;AS;;2024-08-27 01:09:16
+Palau;Dollar;OC;;2024-08-27 01:09:16
+Palestinian Territory;Shekel;AS;;2024-08-27 01:09:17
+Panama;Balboa;NA;;2024-08-27 01:09:17
+Papua New Guinea;Kina;OC;;2024-08-27 01:09:17
+Paraguay;Guarani;SA;;2024-08-27 01:09:17
+Peru;Sol;SA;;2024-08-27 01:09:17
+Philippines;Peso;AS;;2024-08-27 01:09:17
+Pitcairn;Dollar;OC;;2024-08-27 01:09:17
+Poland;Zloty;EU;;2024-08-27 01:09:17
+Portugal;Euro;EU;;2024-08-27 01:09:17
+Puerto Rico;Dollar;NA;;2024-08-27 01:09:18
+Qatar;Rial;AS;;2024-08-27 01:09:18
+Republic of the Congo;Franc;AF;;2024-08-27 01:09:18
+Reunion;Euro;AF;;2024-08-27 01:09:18
+Romania;Leu;EU;;2024-08-27 01:09:18
+Russia;Ruble;EU;;2024-08-27 01:09:18
+Rwanda;Franc;AF;;2024-08-27 01:09:18
+Saint Barthelemy;Euro;NA;;2024-08-27 01:09:18
+Saint Helena;Pound;AF;;2024-08-27 01:09:18
+Saint Kitts and Nevis;Dollar;NA;;2024-08-27 01:09:19
+Saint Lucia;Dollar;NA;;2024-08-27 01:09:19
+Saint Martin;Euro;NA;;2024-08-27 01:09:19
+Saint Pierre and Miquelon;Euro;NA;;2024-08-27 01:09:19
+Saint Vincent and the Grenadines;Dollar;NA;;2024-08-27 01:09:19
+Samoa;Tala;OC;;2024-08-27 01:09:19
+San Marino;Euro;EU;;2024-08-27 01:09:19
+Sao Tome and Principe;Dobra;AF;;2024-08-27 01:09:19
+Saudi Arabia;Rial;AS;;2024-08-27 01:09:19
+Senegal;Franc;AF;;2024-08-27 01:09:20
+Serbia;Dinar;EU;;2024-08-27 01:09:20
+Serbia and Montenegro;Dinar;EU;;2024-08-27 01:09:20
+Seychelles;Rupee;AF;;2024-08-27 01:09:20
+Sierra Leone;Leone;AF;;2024-08-27 01:09:20
+Singapore;Dollar;AS;;2024-08-27 01:09:20
+Sint Maarten;Guilder;NA;;2024-08-27 01:09:20
+Slovakia;Euro;EU;;2024-08-27 01:09:20
+Slovenia;Euro;EU;;2024-08-27 01:09:21
+Solomon Islands;Dollar;OC;;2024-08-27 01:09:21
+Somalia;Shilling;AF;;2024-08-27 01:09:21
+South Africa;Rand;AF;;2024-08-27 01:09:21
+South Georgia and the South Sandwich Islands;Pound;AN;;2024-08-27 01:09:21
+South Korea;Won;AS;;2024-08-27 01:09:21
+South Sudan;Pound;AF;;2024-08-27 01:09:21
+Spain;Euro;EU;;2024-08-27 01:09:21
+Sri Lanka;Rupee;AS;;2024-08-27 01:09:22
+Sudan;Pound;AF;;2024-08-27 01:09:22
+Suriname;Dollar;SA;;2024-08-27 01:09:22
+Svalbard and Jan Mayen;Krone;EU;;2024-08-27 01:09:22
+Swaziland;Lilangeni;AF;;2024-08-27 01:09:22
+Sweden;Krona;EU;;2024-08-27 01:09:22
+Switzerland;Franc;EU;;2024-08-27 01:09:22
+Syria;Pound;AS;;2024-08-27 01:09:22
+Taiwan;Dollar;AS;;2024-08-27 01:09:23
+Tajikistan;Somoni;AS;;2024-08-27 01:09:23
+Tanzania;Shilling;AF;;2024-08-27 01:09:23
+Thailand;Baht;AS;;2024-08-27 01:09:23
+Togo;Franc;AF;;2024-08-27 01:09:23
+Tokelau;Dollar;OC;;2024-08-27 01:09:23
+Tonga;Pa'anga;OC;;2024-08-27 01:09:23
+Trinidad and Tobago;Dollar;NA;;2024-08-27 01:09:23
+Tunisia;Dinar;AF;;2024-08-27 01:09:23
+Turkey;Lira;AS;;2024-08-27 01:09:24
+Turkmenistan;Manat;AS;;2024-08-27 01:09:24
+Turks and Caicos Islands;Dollar;NA;;2024-08-27 01:09:24
+Tuvalu;Dollar;OC;;2024-08-27 01:09:24
+U.S. Virgin Islands;Dollar;NA;;2024-08-27 01:09:24
+Uganda;Shilling;AF;;2024-08-27 01:09:24
+Ukraine;Hryvnia;EU;;2024-08-27 01:09:24
+United Arab Emirates;Dirham;AS;;2024-08-27 01:09:24
+United Kingdom;Pound;EU;;2024-08-27 01:09:24
+United States;Dollar;NA;;2024-08-27 01:09:25
+United States Minor Outlying Islands;Dollar;OC;;2024-08-27 01:09:25
+Uruguay;Peso;SA;;2024-08-27 01:09:25
+Uzbekistan;Som;AS;;2024-08-27 01:09:25
+Vanuatu;Vatu;OC;;2024-08-27 01:09:25
+Vatican;Euro;EU;;2024-08-27 01:09:25
+Venezuela;Bolivar;SA;;2024-08-27 01:09:25
+Vietnam;Dong;AS;;2024-08-27 01:09:25
+Wallis and Futuna;Franc;OC;;2024-08-27 01:09:26
+Western Sahara;Dirham;AF;;2024-08-27 01:09:26
+Yemen;Rial;AS;;2024-08-27 01:09:26
+Zambia;Kwacha;AF;;2024-08-27 01:09:26
+Zimbabwe;Dollar;AF;;2024-08-27 01:09:26
+Afghanistan;Afghani;AS;;2024-08-27 01:11:09
+Aland Islands;Euro;EU;;2024-08-27 01:11:09
+Albania;Lek;EU;;2024-08-27 01:11:10
+Algeria;Dinar;AF;;2024-08-27 01:11:10
+American Samoa;Dollar;OC;;2024-08-27 01:11:10
+Andorra;Euro;EU;;2024-08-27 01:11:10
+Angola;Kwanza;AF;;2024-08-27 01:11:10
+Anguilla;Dollar;NA;;2024-08-27 01:11:10
+Antarctica;;AN;;2024-08-27 01:11:10
+Antigua and Barbuda;Dollar;NA;;2024-08-27 01:11:10
+Argentina;Peso;SA;;2024-08-27 01:11:11
+Armenia;Dram;AS;;2024-08-27 01:11:11
+Aruba;Guilder;NA;;2024-08-27 01:11:11
+Australia;Dollar;OC;;2024-08-27 01:11:11
+Austria;Euro;EU;;2024-08-27 01:11:11
+Azerbaijan;Manat;AS;;2024-08-27 01:11:11
+Bahamas;Dollar;NA;;2024-08-27 01:11:11
+Bahrain;Dinar;AS;;2024-08-27 01:11:11
+Bangladesh;Taka;AS;;2024-08-27 01:11:11
+Barbados;Dollar;NA;;2024-08-27 01:11:11
+Belarus;Ruble;EU;;2024-08-27 01:11:12
+Belgium;Euro;EU;;2024-08-27 01:11:12
+Belize;Dollar;NA;;2024-08-27 01:11:12
+Benin;Franc;AF;;2024-08-27 01:11:12
+Bermuda;Dollar;NA;;2024-08-27 01:11:12
+Bhutan;Ngultrum;AS;;2024-08-27 01:11:12
+Bolivia;Boliviano;SA;;2024-08-27 01:11:12
+Bonaire, Saint Eustatius and Saba;Dollar;NA;;2024-08-27 01:11:12
+Bosnia and Herzegovina;Marka;EU;;2024-08-27 01:11:13
+Botswana;Pula;AF;;2024-08-27 01:11:13
+Bouvet Island;Krone;AN;;2024-08-27 01:11:13
+Brazil;Real;SA;;2024-08-27 01:11:13
+British Indian Ocean Territory;Dollar;AS;;2024-08-27 01:11:13
+British Virgin Islands;Dollar;NA;;2024-08-27 01:11:13
+Brunei;Dollar;AS;;2024-08-27 01:11:13
+Bulgaria;Lev;EU;;2024-08-27 01:11:13
+Burkina Faso;Franc;AF;;2024-08-27 01:11:14
+Burundi;Franc;AF;;2024-08-27 01:11:14
+Cambodia;Riels;AS;;2024-08-27 01:11:14
+Cameroon;Franc;AF;;2024-08-27 01:11:14
+Canada;Dollar;NA;;2024-08-27 01:11:14
+Cape Verde;Escudo;AF;;2024-08-27 01:11:14
+Cayman Islands;Dollar;NA;;2024-08-27 01:11:14
+Central African Republic;Franc;AF;;2024-08-27 01:11:14
+Chad;Franc;AF;;2024-08-27 01:11:15
+Chile;Peso;SA;;2024-08-27 01:11:15
+China;Yuan Renminbi;AS;;2024-08-27 01:11:15
+Christmas Island;Dollar;AS;;2024-08-27 01:11:15
+Cocos Islands;Dollar;AS;;2024-08-27 01:11:15
+Colombia;Peso;SA;;2024-08-27 01:11:15
+Comoros;Franc;AF;;2024-08-27 01:11:15
+Cook Islands;Dollar;OC;;2024-08-27 01:11:15
+Costa Rica;Colon;NA;;2024-08-27 01:11:16
+Croatia;Kuna;EU;;2024-08-27 01:11:16
+Cuba;Peso;NA;;2024-08-27 01:11:16
+Curacao;Guilder;NA;;2024-08-27 01:11:16
+Cyprus;Euro;EU;;2024-08-27 01:11:16
+Czech Republic;Koruna;EU;;2024-08-27 01:11:16
+Democratic Republic of the Congo;Franc;AF;;2024-08-27 01:11:16
+Denmark;Krone;EU;;2024-08-27 01:11:16
+Djibouti;Franc;AF;;2024-08-27 01:11:16
+Dominica;Dollar;NA;;2024-08-27 01:11:17
+Dominican Republic;Peso;NA;;2024-08-27 01:11:17
+East Timor;Dollar;OC;;2024-08-27 01:11:17
+Ecuador;Dollar;SA;;2024-08-27 01:11:17
+Egypt;Pound;AF;;2024-08-27 01:11:17
+El Salvador;Dollar;NA;;2024-08-27 01:11:17
+Equatorial Guinea;Franc;AF;;2024-08-27 01:11:17
+Eritrea;Nakfa;AF;;2024-08-27 01:11:17
+Estonia;Euro;EU;;2024-08-27 01:11:17
+Ethiopia;Birr;AF;;2024-08-27 01:11:18
+Falkland Islands;Pound;SA;;2024-08-27 01:11:18
+Faroe Islands;Krone;EU;;2024-08-27 01:11:18
+Fiji;Dollar;OC;;2024-08-27 01:11:18
+Finland;Euro;EU;;2024-08-27 01:11:18
+France;Euro;EU;;2024-08-27 01:11:18
+French Guiana;Euro;SA;;2024-08-27 01:11:18
+French Polynesia;Franc;OC;;2024-08-27 01:11:18
+French Southern Territories;Euro;AN;;2024-08-27 01:11:19
+Gabon;Franc;AF;;2024-08-27 01:11:19
+Gambia;Dalasi;AF;;2024-08-27 01:11:19
+Georgia;Lari;AS;;2024-08-27 01:11:19
+Germany;Euro;EU;;2024-08-27 01:11:19
+Ghana;Cedi;AF;;2024-08-27 01:11:19
+Gibraltar;Pound;EU;;2024-08-27 01:11:19
+Greece;Euro;EU;;2024-08-27 01:11:19
+Greenland;Krone;NA;;2024-08-27 01:11:20
+Grenada;Dollar;NA;;2024-08-27 01:11:20
+Guadeloupe;Euro;NA;;2024-08-27 01:11:20
+Guam;Dollar;OC;;2024-08-27 01:11:20
+Guatemala;Quetzal;NA;;2024-08-27 01:11:20
+Guernsey;Pound;EU;;2024-08-27 01:11:20
+Guinea;Franc;AF;;2024-08-27 01:11:20
+Guinea-Bissau;Franc;AF;;2024-08-27 01:11:21
+Guyana;Dollar;SA;;2024-08-27 01:11:21
+Haiti;Gourde;NA;;2024-08-27 01:11:21
+Heard Island and McDonald Islands;Dollar;AN;;2024-08-27 01:11:21
+Honduras;Lempira;NA;;2024-08-27 01:11:21
+Hong Kong;Dollar;AS;;2024-08-27 01:11:21
+Hungary;Forint;EU;;2024-08-27 01:11:21
+Iceland;Krona;EU;;2024-08-27 01:11:21
+India;Rupee;AS;;2024-08-27 01:11:22
+Indonesia;Rupiah;AS;;2024-08-27 01:11:22
+Iran;Rial;AS;;2024-08-27 01:11:22
+Iraq;Dinar;AS;;2024-08-27 01:11:22
+Ireland;Euro;EU;;2024-08-27 01:11:22
+Isle of Man;Pound;EU;;2024-08-27 01:11:22
+Israel;Shekel;AS;;2024-08-27 01:11:22
+Italy;Euro;EU;;2024-08-27 01:11:22
+Ivory Coast;Franc;AF;;2024-08-27 01:11:22
+Jamaica;Dollar;NA;;2024-08-27 01:11:23
+Japan;Yen;AS;;2024-08-27 01:11:23
+Jersey;Pound;EU;;2024-08-27 01:11:23
+Jordan;Dinar;AS;;2024-08-27 01:11:23
+Kazakhstan;Tenge;AS;;2024-08-27 01:11:23
+Kenya;Shilling;AF;;2024-08-27 01:11:23
+Kiribati;Dollar;OC;;2024-08-27 01:11:23
+Kosovo;Euro;EU;;2024-08-27 01:11:23
+Kuwait;Dinar;AS;;2024-08-27 01:11:23
+Kyrgyzstan;Som;AS;;2024-08-27 01:11:24
+Laos;Kip;AS;;2024-08-27 01:11:24
+Latvia;Euro;EU;;2024-08-27 01:11:24
+Lebanon;Pound;AS;;2024-08-27 01:11:24
+Lesotho;Loti;AF;;2024-08-27 01:11:24
+Liberia;Dollar;AF;;2024-08-27 01:11:24
+Libya;Dinar;AF;;2024-08-27 01:11:24
+Liechtenstein;Franc;EU;;2024-08-27 01:11:24
+Lithuania;Litas;EU;;2024-08-27 01:11:25
+Luxembourg;Euro;EU;;2024-08-27 01:11:25
+Macao;Pataca;AS;;2024-08-27 01:11:25
+Macedonia;Denar;EU;;2024-08-27 01:11:25
+Madagascar;Ariary;AF;;2024-08-27 01:11:25
+Malawi;Kwacha;AF;;2024-08-27 01:11:25
+Malaysia;Ringgit;AS;;2024-08-27 01:11:25
+Maldives;Rufiyaa;AS;;2024-08-27 01:11:25
+Mali;Franc;AF;;2024-08-27 01:11:25
+Malta;Euro;EU;;2024-08-27 01:11:26
+Marshall Islands;Dollar;OC;;2024-08-27 01:11:26
+Martinique;Euro;NA;;2024-08-27 01:11:26
+Mauritania;Ouguiya;AF;;2024-08-27 01:11:26
+Mauritius;Rupee;AF;;2024-08-27 01:11:26
+Mayotte;Euro;AF;;2024-08-27 01:11:26
+Mexico;Peso;NA;;2024-08-27 01:11:26
+Micronesia;Dollar;OC;;2024-08-27 01:11:26
+Moldova;Leu;EU;;2024-08-27 01:11:27
+Monaco;Euro;EU;;2024-08-27 01:11:27
+Mongolia;Tugrik;AS;;2024-08-27 01:11:27
+Montenegro;Euro;EU;;2024-08-27 01:11:27
+Montserrat;Dollar;NA;;2024-08-27 01:11:27
+Morocco;Dirham;AF;;2024-08-27 01:11:27
+Mozambique;Metical;AF;;2024-08-27 01:11:27
+Myanmar;Kyat;AS;;2024-08-27 01:11:27
+Namibia;Dollar;AF;;2024-08-27 01:11:27
+Nauru;Dollar;OC;;2024-08-27 01:11:28
+Nepal;Rupee;AS;;2024-08-27 01:11:28
+Netherlands;Euro;EU;;2024-08-27 01:11:28
+Netherlands Antilles;Guilder;NA;;2024-08-27 01:11:28
+New Caledonia;Franc;OC;;2024-08-27 01:11:28
+New Zealand;Dollar;OC;;2024-08-27 01:11:28
+Nicaragua;Cordoba;NA;;2024-08-27 01:11:28
+Niger;Franc;AF;;2024-08-27 01:11:28
+Nigeria;Naira;AF;;2024-08-27 01:11:29
+Niue;Dollar;OC;;2024-08-27 01:11:29
+Norfolk Island;Dollar;OC;;2024-08-27 01:11:29
+North Korea;Won;AS;;2024-08-27 01:11:29
+Northern Mariana Islands;Dollar;OC;;2024-08-27 01:11:29
+Norway;Krone;EU;;2024-08-27 01:11:29
+Oman;Rial;AS;;2024-08-27 01:11:29
+Pakistan;Rupee;AS;;2024-08-27 01:11:29
+Palau;Dollar;OC;;2024-08-27 01:11:29
+Palestinian Territory;Shekel;AS;;2024-08-27 01:11:30
+Panama;Balboa;NA;;2024-08-27 01:11:30
+Papua New Guinea;Kina;OC;;2024-08-27 01:11:30
+Paraguay;Guarani;SA;;2024-08-27 01:11:30
+Peru;Sol;SA;;2024-08-27 01:11:30
+Philippines;Peso;AS;;2024-08-27 01:11:30
+Pitcairn;Dollar;OC;;2024-08-27 01:11:30
+Poland;Zloty;EU;;2024-08-27 01:11:30
+Portugal;Euro;EU;;2024-08-27 01:11:31
+Puerto Rico;Dollar;NA;;2024-08-27 01:11:31
+Qatar;Rial;AS;;2024-08-27 01:11:31
+Republic of the Congo;Franc;AF;;2024-08-27 01:11:31
+Reunion;Euro;AF;;2024-08-27 01:11:31
+Romania;Leu;EU;;2024-08-27 01:11:31
+Russia;Ruble;EU;;2024-08-27 01:11:31
+Rwanda;Franc;AF;;2024-08-27 01:11:31
+Saint Barthelemy;Euro;NA;;2024-08-27 01:11:32
+Saint Helena;Pound;AF;;2024-08-27 01:11:32
+Saint Kitts and Nevis;Dollar;NA;;2024-08-27 01:11:32
+Saint Lucia;Dollar;NA;;2024-08-27 01:11:32
+Saint Martin;Euro;NA;;2024-08-27 01:11:32
+Saint Pierre and Miquelon;Euro;NA;;2024-08-27 01:11:32
+Saint Vincent and the Grenadines;Dollar;NA;;2024-08-27 01:11:32
+Samoa;Tala;OC;;2024-08-27 01:11:32
+San Marino;Euro;EU;;2024-08-27 01:11:32
+Sao Tome and Principe;Dobra;AF;;2024-08-27 01:11:33
+Saudi Arabia;Rial;AS;;2024-08-27 01:11:33
+Senegal;Franc;AF;;2024-08-27 01:11:33
+Serbia;Dinar;EU;;2024-08-27 01:11:33
+Serbia and Montenegro;Dinar;EU;;2024-08-27 01:11:33
+Seychelles;Rupee;AF;;2024-08-27 01:11:33
+Sierra Leone;Leone;AF;;2024-08-27 01:11:33
+Singapore;Dollar;AS;;2024-08-27 01:11:33
+Sint Maarten;Guilder;NA;;2024-08-27 01:11:34
+Slovakia;Euro;EU;;2024-08-27 01:11:34
+Slovenia;Euro;EU;;2024-08-27 01:11:34
+Solomon Islands;Dollar;OC;;2024-08-27 01:11:34
+Somalia;Shilling;AF;;2024-08-27 01:11:34
+South Africa;Rand;AF;;2024-08-27 01:11:34
+South Georgia and the South Sandwich Islands;Pound;AN;;2024-08-27 01:11:34
+South Korea;Won;AS;;2024-08-27 01:11:34
+South Sudan;Pound;AF;;2024-08-27 01:11:34
+Spain;Euro;EU;;2024-08-27 01:11:35
+Sri Lanka;Rupee;AS;;2024-08-27 01:11:35
+Sudan;Pound;AF;;2024-08-27 01:11:35
+Suriname;Dollar;SA;;2024-08-27 01:11:35
+Svalbard and Jan Mayen;Krone;EU;;2024-08-27 01:11:35
+Swaziland;Lilangeni;AF;;2024-08-27 01:11:35
+Sweden;Krona;EU;;2024-08-27 01:11:35
+Switzerland;Franc;EU;;2024-08-27 01:11:35
+Syria;Pound;AS;;2024-08-27 01:11:36
+Taiwan;Dollar;AS;;2024-08-27 01:11:36
+Tajikistan;Somoni;AS;;2024-08-27 01:11:36
+Tanzania;Shilling;AF;;2024-08-27 01:11:36
+Thailand;Baht;AS;;2024-08-27 01:11:36
+Togo;Franc;AF;;2024-08-27 01:11:36
+Tokelau;Dollar;OC;;2024-08-27 01:11:36
+Tonga;Pa'anga;OC;;2024-08-27 01:11:36
+Trinidad and Tobago;Dollar;NA;;2024-08-27 01:11:36
+Tunisia;Dinar;AF;;2024-08-27 01:11:36
+Turkey;Lira;AS;;2024-08-27 01:11:37
+Turkmenistan;Manat;AS;;2024-08-27 01:11:37
+Turks and Caicos Islands;Dollar;NA;;2024-08-27 01:11:37
+Tuvalu;Dollar;OC;;2024-08-27 01:11:37
+U.S. Virgin Islands;Dollar;NA;;2024-08-27 01:11:37
+Uganda;Shilling;AF;;2024-08-27 01:11:37
+Ukraine;Hryvnia;EU;;2024-08-27 01:11:37
+United Arab Emirates;Dirham;AS;;2024-08-27 01:11:37
+United Kingdom;Pound;EU;;2024-08-27 01:11:38
+United States;Dollar;NA;;2024-08-27 01:11:38
+United States Minor Outlying Islands;Dollar;OC;;2024-08-27 01:11:38
+Uruguay;Peso;SA;;2024-08-27 01:11:38
+Uzbekistan;Som;AS;;2024-08-27 01:11:38
+Vanuatu;Vatu;OC;;2024-08-27 01:11:38
+Vatican;Euro;EU;;2024-08-27 01:11:38
+Venezuela;Bolivar;SA;;2024-08-27 01:11:38
+Vietnam;Dong;AS;;2024-08-27 01:11:39
+Wallis and Futuna;Franc;OC;;2024-08-27 01:11:39
+Western Sahara;Dirham;AF;;2024-08-27 01:11:39
+Yemen;Rial;AS;;2024-08-27 01:11:39
+Zambia;Kwacha;AF;;2024-08-27 01:11:39
+Zimbabwe;Dollar;AF;;2024-08-27 01:11:39
+Afghanistan;Afghani;AS;;2024-08-27 01:14:19
+Aland Islands;Euro;EU;;2024-08-27 01:14:19
+Albania;Lek;EU;;2024-08-27 01:14:19
+Algeria;Dinar;AF;;2024-08-27 01:14:19
+American Samoa;Dollar;OC;;2024-08-27 01:14:19
+Andorra;Euro;EU;;2024-08-27 01:14:19
+Angola;Kwanza;AF;;2024-08-27 01:14:19
+Anguilla;Dollar;NA;;2024-08-27 01:14:19
+Antarctica;;AN;;2024-08-27 01:14:20
+Antigua and Barbuda;Dollar;NA;;2024-08-27 01:14:20
+Argentina;Peso;SA;;2024-08-27 01:14:20
+Armenia;Dram;AS;;2024-08-27 01:14:20
+Aruba;Guilder;NA;;2024-08-27 01:14:20
+Australia;Dollar;OC;;2024-08-27 01:14:20
+Austria;Euro;EU;;2024-08-27 01:14:20
+Azerbaijan;Manat;AS;;2024-08-27 01:14:20
+Bahamas;Dollar;NA;;2024-08-27 01:14:20
+Bahrain;Dinar;AS;;2024-08-27 01:14:21
+Bangladesh;Taka;AS;;2024-08-27 01:14:21
+Barbados;Dollar;NA;;2024-08-27 01:14:21
+Belarus;Ruble;EU;;2024-08-27 01:14:21
+Belgium;Euro;EU;;2024-08-27 01:14:21
+Belize;Dollar;NA;;2024-08-27 01:14:21
+Benin;Franc;AF;;2024-08-27 01:14:21
+Bermuda;Dollar;NA;;2024-08-27 01:14:21
+Bhutan;Ngultrum;AS;;2024-08-27 01:14:22
+Bolivia;Boliviano;SA;;2024-08-27 01:14:22
+Bonaire, Saint Eustatius and Saba;Dollar;NA;;2024-08-27 01:14:22
+Bosnia and Herzegovina;Marka;EU;;2024-08-27 01:14:22
+Botswana;Pula;AF;;2024-08-27 01:14:22
+Bouvet Island;Krone;AN;;2024-08-27 01:14:22
+Brazil;Real;SA;;2024-08-27 01:14:22
+British Indian Ocean Territory;Dollar;AS;;2024-08-27 01:14:22
+British Virgin Islands;Dollar;NA;;2024-08-27 01:14:23
+Brunei;Dollar;AS;;2024-08-27 01:14:23
+Bulgaria;Lev;EU;;2024-08-27 01:14:23
+Burkina Faso;Franc;AF;;2024-08-27 01:14:23
+Burundi;Franc;AF;;2024-08-27 01:14:23
+Cambodia;Riels;AS;;2024-08-27 01:14:23
+Cameroon;Franc;AF;;2024-08-27 01:14:23
+Canada;Dollar;NA;;2024-08-27 01:14:23
+Cape Verde;Escudo;AF;;2024-08-27 01:14:23
+Cayman Islands;Dollar;NA;;2024-08-27 01:14:24
+Central African Republic;Franc;AF;;2024-08-27 01:14:24
+Chad;Franc;AF;;2024-08-27 01:14:24
+Chile;Peso;SA;;2024-08-27 01:14:24
+China;Yuan Renminbi;AS;;2024-08-27 01:14:24
+Christmas Island;Dollar;AS;;2024-08-27 01:14:24
+Cocos Islands;Dollar;AS;;2024-08-27 01:14:24
+Colombia;Peso;SA;;2024-08-27 01:14:24
+Comoros;Franc;AF;;2024-08-27 01:14:24
+Cook Islands;Dollar;OC;;2024-08-27 01:14:25
+Costa Rica;Colon;NA;;2024-08-27 01:14:25
+Croatia;Kuna;EU;;2024-08-27 01:14:25
+Cuba;Peso;NA;;2024-08-27 01:14:25
+Curacao;Guilder;NA;;2024-08-27 01:14:25
+Cyprus;Euro;EU;;2024-08-27 01:14:25
+Czech Republic;Koruna;EU;;2024-08-27 01:14:25
+Democratic Republic of the Congo;Franc;AF;;2024-08-27 01:14:25
+Denmark;Krone;EU;;2024-08-27 01:14:25
+Djibouti;Franc;AF;;2024-08-27 01:14:26
+Dominica;Dollar;NA;;2024-08-27 01:14:26
+Dominican Republic;Peso;NA;;2024-08-27 01:14:26
+East Timor;Dollar;OC;;2024-08-27 01:14:26
+Ecuador;Dollar;SA;;2024-08-27 01:14:26
+Egypt;Pound;AF;;2024-08-27 01:14:26
+El Salvador;Dollar;NA;;2024-08-27 01:14:26
+Equatorial Guinea;Franc;AF;;2024-08-27 01:14:26
+Eritrea;Nakfa;AF;;2024-08-27 01:14:27
+Estonia;Euro;EU;;2024-08-27 01:14:27
+Ethiopia;Birr;AF;;2024-08-27 01:14:27
+Falkland Islands;Pound;SA;;2024-08-27 01:14:27
+Faroe Islands;Krone;EU;;2024-08-27 01:14:27
+Fiji;Dollar;OC;;2024-08-27 01:14:27
+Finland;Euro;EU;;2024-08-27 01:14:27
+France;Euro;EU;;2024-08-27 01:14:27
+French Guiana;Euro;SA;;2024-08-27 01:14:27
+French Polynesia;Franc;OC;;2024-08-27 01:14:28
+French Southern Territories;Euro;AN;;2024-08-27 01:14:28
+Gabon;Franc;AF;;2024-08-27 01:14:28
+Gambia;Dalasi;AF;;2024-08-27 01:14:28
+Georgia;Lari;AS;;2024-08-27 01:14:28
+Germany;Euro;EU;;2024-08-27 01:14:28
+Ghana;Cedi;AF;;2024-08-27 01:14:28
+Gibraltar;Pound;EU;;2024-08-27 01:14:28
+Greece;Euro;EU;;2024-08-27 01:14:29
+Greenland;Krone;NA;;2024-08-27 01:14:29
+Grenada;Dollar;NA;;2024-08-27 01:14:29
+Guadeloupe;Euro;NA;;2024-08-27 01:14:29
+Guam;Dollar;OC;;2024-08-27 01:14:29
+Guatemala;Quetzal;NA;;2024-08-27 01:14:29
+Guernsey;Pound;EU;;2024-08-27 01:14:29
+Guinea;Franc;AF;;2024-08-27 01:14:29
+Guinea-Bissau;Franc;AF;;2024-08-27 01:14:30
+Guyana;Dollar;SA;;2024-08-27 01:14:30
+Haiti;Gourde;NA;;2024-08-27 01:14:30
+Heard Island and McDonald Islands;Dollar;AN;;2024-08-27 01:14:30
+Honduras;Lempira;NA;;2024-08-27 01:14:30
+Hong Kong;Dollar;AS;;2024-08-27 01:14:30
+Hungary;Forint;EU;;2024-08-27 01:14:30
+Iceland;Krona;EU;;2024-08-27 01:14:30
+India;Rupee;AS;;2024-08-27 01:14:31
+Indonesia;Rupiah;AS;;2024-08-27 01:14:31
+Iran;Rial;AS;;2024-08-27 01:14:31
+Iraq;Dinar;AS;;2024-08-27 01:14:31
+Ireland;Euro;EU;;2024-08-27 01:14:31
+Isle of Man;Pound;EU;;2024-08-27 01:14:31
+Israel;Shekel;AS;;2024-08-27 01:14:31
+Italy;Euro;EU;;2024-08-27 01:14:31
+Ivory Coast;Franc;AF;;2024-08-27 01:14:31
+Jamaica;Dollar;NA;;2024-08-27 01:14:32
+Japan;Yen;AS;;2024-08-27 01:14:32
+Jersey;Pound;EU;;2024-08-27 01:14:32
+Jordan;Dinar;AS;;2024-08-27 01:14:32
+Kazakhstan;Tenge;AS;;2024-08-27 01:14:32
+Kenya;Shilling;AF;;2024-08-27 01:14:32
+Kiribati;Dollar;OC;;2024-08-27 01:14:32
+Kosovo;Euro;EU;;2024-08-27 01:14:32
+Kuwait;Dinar;AS;;2024-08-27 01:14:32
+Kyrgyzstan;Som;AS;;2024-08-27 01:14:33
+Laos;Kip;AS;;2024-08-27 01:14:33
+Latvia;Euro;EU;;2024-08-27 01:14:33
+Lebanon;Pound;AS;;2024-08-27 01:14:33
+Lesotho;Loti;AF;;2024-08-27 01:14:33
+Liberia;Dollar;AF;;2024-08-27 01:14:33
+Libya;Dinar;AF;;2024-08-27 01:14:33
+Liechtenstein;Franc;EU;;2024-08-27 01:14:33
+Lithuania;Litas;EU;;2024-08-27 01:14:33
+Luxembourg;Euro;EU;;2024-08-27 01:14:34
+Macao;Pataca;AS;;2024-08-27 01:14:34
+Macedonia;Denar;EU;;2024-08-27 01:14:34
+Madagascar;Ariary;AF;;2024-08-27 01:14:34
+Malawi;Kwacha;AF;;2024-08-27 01:14:34
+Malaysia;Ringgit;AS;;2024-08-27 01:14:34
+Maldives;Rufiyaa;AS;;2024-08-27 01:14:34
+Mali;Franc;AF;;2024-08-27 01:14:34
+Malta;Euro;EU;;2024-08-27 01:14:35
+Marshall Islands;Dollar;OC;;2024-08-27 01:14:35
+Martinique;Euro;NA;;2024-08-27 01:14:35
+Mauritania;Ouguiya;AF;;2024-08-27 01:14:35
+Mauritius;Rupee;AF;;2024-08-27 01:14:35
+Mayotte;Euro;AF;;2024-08-27 01:14:35
+Mexico;Peso;NA;;2024-08-27 01:14:35
+Micronesia;Dollar;OC;;2024-08-27 01:14:35
+Moldova;Leu;EU;;2024-08-27 01:14:35
+Monaco;Euro;EU;;2024-08-27 01:14:36
+Mongolia;Tugrik;AS;;2024-08-27 01:14:36
+Montenegro;Euro;EU;;2024-08-27 01:14:36
+Montserrat;Dollar;NA;;2024-08-27 01:14:36
+Morocco;Dirham;AF;;2024-08-27 01:14:36
+Mozambique;Metical;AF;;2024-08-27 01:14:36
+Myanmar;Kyat;AS;;2024-08-27 01:14:36
+Namibia;Dollar;AF;;2024-08-27 01:14:36
+Nauru;Dollar;OC;;2024-08-27 01:14:37
+Nepal;Rupee;AS;;2024-08-27 01:14:37
+Netherlands;Euro;EU;;2024-08-27 01:14:37
+Netherlands Antilles;Guilder;NA;;2024-08-27 01:14:37
+New Caledonia;Franc;OC;;2024-08-27 01:14:37
+New Zealand;Dollar;OC;;2024-08-27 01:14:37
+Nicaragua;Cordoba;NA;;2024-08-27 01:14:37
+Niger;Franc;AF;;2024-08-27 01:14:37
+Nigeria;Naira;AF;;2024-08-27 01:14:38
+Niue;Dollar;OC;;2024-08-27 01:14:38
+Norfolk Island;Dollar;OC;;2024-08-27 01:14:38
+North Korea;Won;AS;;2024-08-27 01:14:38
+Northern Mariana Islands;Dollar;OC;;2024-08-27 01:14:38
+Norway;Krone;EU;;2024-08-27 01:14:38
+Oman;Rial;AS;;2024-08-27 01:14:38
+Pakistan;Rupee;AS;;2024-08-27 01:14:38
+Palau;Dollar;OC;;2024-08-27 01:14:38
+Palestinian Territory;Shekel;AS;;2024-08-27 01:14:39
+Panama;Balboa;NA;;2024-08-27 01:14:39
+Papua New Guinea;Kina;OC;;2024-08-27 01:14:39
+Paraguay;Guarani;SA;;2024-08-27 01:14:39
+Peru;Sol;SA;;2024-08-27 01:14:39
+Philippines;Peso;AS;;2024-08-27 01:14:39
+Pitcairn;Dollar;OC;;2024-08-27 01:14:39
+Poland;Zloty;EU;;2024-08-27 01:14:39
+Portugal;Euro;EU;;2024-08-27 01:14:39
+Puerto Rico;Dollar;NA;;2024-08-27 01:14:40
+Qatar;Rial;AS;;2024-08-27 01:14:40
+Republic of the Congo;Franc;AF;;2024-08-27 01:14:40
+Reunion;Euro;AF;;2024-08-27 01:14:40
+Romania;Leu;EU;;2024-08-27 01:14:40
+Russia;Ruble;EU;;2024-08-27 01:14:40
+Rwanda;Franc;AF;;2024-08-27 01:14:40
+Saint Barthelemy;Euro;NA;;2024-08-27 01:14:40
+Saint Helena;Pound;AF;;2024-08-27 01:14:41
+Saint Kitts and Nevis;Dollar;NA;;2024-08-27 01:14:41
+Saint Lucia;Dollar;NA;;2024-08-27 01:14:41
+Saint Martin;Euro;NA;;2024-08-27 01:14:41
+Saint Pierre and Miquelon;Euro;NA;;2024-08-27 01:14:41
+Saint Vincent and the Grenadines;Dollar;NA;;2024-08-27 01:14:41
+Samoa;Tala;OC;;2024-08-27 01:14:41
+San Marino;Euro;EU;;2024-08-27 01:14:41
+Sao Tome and Principe;Dobra;AF;;2024-08-27 01:14:41
+Saudi Arabia;Rial;AS;;2024-08-27 01:14:42
+Senegal;Franc;AF;;2024-08-27 01:14:42
+Serbia;Dinar;EU;;2024-08-27 01:14:42
+Serbia and Montenegro;Dinar;EU;;2024-08-27 01:14:42
+Seychelles;Rupee;AF;;2024-08-27 01:14:42
+Sierra Leone;Leone;AF;;2024-08-27 01:14:42
+Singapore;Dollar;AS;;2024-08-27 01:14:42
+Sint Maarten;Guilder;NA;;2024-08-27 01:14:42
+Slovakia;Euro;EU;;2024-08-27 01:14:43
+Slovenia;Euro;EU;;2024-08-27 01:14:43
+Solomon Islands;Dollar;OC;;2024-08-27 01:14:43
+Somalia;Shilling;AF;;2024-08-27 01:14:43
+South Africa;Rand;AF;;2024-08-27 01:14:43
+South Georgia and the South Sandwich Islands;Pound;AN;;2024-08-27 01:14:43
+South Korea;Won;AS;;2024-08-27 01:14:43
+South Sudan;Pound;AF;;2024-08-27 01:14:43
+Spain;Euro;EU;;2024-08-27 01:14:43
+Sri Lanka;Rupee;AS;;2024-08-27 01:14:44
+Sudan;Pound;AF;;2024-08-27 01:14:44
+Suriname;Dollar;SA;;2024-08-27 01:14:44
+Svalbard and Jan Mayen;Krone;EU;;2024-08-27 01:14:44
+Swaziland;Lilangeni;AF;;2024-08-27 01:14:44
+Sweden;Krona;EU;;2024-08-27 01:14:44
+Switzerland;Franc;EU;;2024-08-27 01:14:44
+Syria;Pound;AS;;2024-08-27 01:14:44
+Taiwan;Dollar;AS;;2024-08-27 01:14:45
+Tajikistan;Somoni;AS;;2024-08-27 01:14:45
+Tanzania;Shilling;AF;;2024-08-27 01:14:45
+Thailand;Baht;AS;;2024-08-27 01:14:45
+Togo;Franc;AF;;2024-08-27 01:14:45
+Tokelau;Dollar;OC;;2024-08-27 01:14:45
+Tonga;Pa'anga;OC;;2024-08-27 01:14:45
+Trinidad and Tobago;Dollar;NA;;2024-08-27 01:14:45
+Tunisia;Dinar;AF;;2024-08-27 01:14:45
+Turkey;Lira;AS;;2024-08-27 01:14:46
+Turkmenistan;Manat;AS;;2024-08-27 01:14:46
+Turks and Caicos Islands;Dollar;NA;;2024-08-27 01:14:46
+Tuvalu;Dollar;OC;;2024-08-27 01:14:46
+U.S. Virgin Islands;Dollar;NA;;2024-08-27 01:14:46
+Uganda;Shilling;AF;;2024-08-27 01:14:46
+Ukraine;Hryvnia;EU;;2024-08-27 01:14:46
+United Arab Emirates;Dirham;AS;;2024-08-27 01:14:46
+United Kingdom;Pound;EU;;2024-08-27 01:14:46
+United States;Dollar;NA;;2024-08-27 01:14:47
+United States Minor Outlying Islands;Dollar;OC;;2024-08-27 01:14:47
+Uruguay;Peso;SA;;2024-08-27 01:14:47
+Uzbekistan;Som;AS;;2024-08-27 01:14:47
+Vanuatu;Vatu;OC;;2024-08-27 01:14:47
+Vatican;Euro;EU;;2024-08-27 01:14:47
+Venezuela;Bolivar;SA;;2024-08-27 01:14:47
+Vietnam;Dong;AS;;2024-08-27 01:14:47
+Wallis and Futuna;Franc;OC;;2024-08-27 01:14:48
+Western Sahara;Dirham;AF;;2024-08-27 01:14:48
+Yemen;Rial;AS;;2024-08-27 01:14:48
+Zambia;Kwacha;AF;;2024-08-27 01:14:48
+Zimbabwe;Dollar;AF;;2024-08-27 01:14:48
