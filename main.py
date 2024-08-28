@@ -4,8 +4,8 @@ from bs4 import BeautifulSoup
 import csv
 from datetime import datetime
 
-BASE_URL = 'http://127.0.0.1:8000/'
-INDEX_URL = BASE_URL + 'places/default/index/'
+BASE_URL = 'http://127.0.0.1:8000'
+INDEX_URL = BASE_URL + '/places/default/index/'
 MIN_INDEX = 0
 MAX_INDEX = 26
 
