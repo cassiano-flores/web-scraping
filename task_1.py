@@ -1,9 +1,8 @@
-# coding=utf-8
+import csv
 import os
 import requests
-import csv
-from bs4 import BeautifulSoup
 from datetime import datetime
+from bs4 import BeautifulSoup
 
 BASE_URL = 'http://127.0.0.1:8000'
 INDEX_URL = BASE_URL + '/places/default/index/'
@@ -13,7 +12,7 @@ INDEX_COUNTRY = 0
 FILE_EXISTS = os.path.isfile(CSV_FILE)
 
 
-# Função para processar as páginas de países a partir de um índice
+# funcao para processar as paginas de paises a partir de um indice
 def process_country_pages(index_url):
     global COUNTRY_DATA, INDEX_COUNTRY
 
@@ -21,13 +20,13 @@ def process_country_pages(index_url):
     response = requests.get(index_url)
     soup = BeautifulSoup(response.text, 'html.parser')
 
-    # Encontrando todos os links para os países
+    # todos os links para paises
     country_links = soup.find_all('a', href=True)
     for link in country_links:
-        if 'view' in link['href']:  # Verifica se o link é para uma página de país
+        if 'view' in link['href']:  # verifica se o link eh para uma pagina de pais
             is_empty = False
             country_url = BASE_URL + link['href']
-            print('Acessando: ' + country_url)
+            print('acessando: ' + country_url)
 
             country_data_new = get_country_data(country_url)
             country_data_current = country_data_new
@@ -48,6 +47,7 @@ def process_country_pages(index_url):
     return is_empty
 
 
+# obtem os dados ja escritos no csv
 def get_country_data_old():
     country_data_old = []
 
@@ -55,19 +55,18 @@ def get_country_data_old():
         reader = csv.DictReader(csvfile, delimiter=';')
 
         for row in reader:
-            # Para evitar o problema das linhas em branco
             if row['country'].strip():
                 country_data_old.append(row)
 
     return country_data_old
 
 
-# Função para capturar o HTML das páginas de países
+# captura o HTML das paginas
 def get_country_data(country_url):
     response = requests.get(country_url)
     soup = BeautifulSoup(response.text, 'html.parser')
 
-    # Extraindo os dados do país usando IDs e classes fornecidas
+    # extrai cada dado
     country_name = soup.find('tr', id='places_country__row').find('td', class_='w2p_fw').text.strip()
     currency_name = soup.find('tr', id='places_currency_name__row').find('td', class_='w2p_fw').text.strip()
 
@@ -79,7 +78,6 @@ def get_country_data(country_url):
     neighbours = [get_neighbour_name(BASE_URL + link) for link in neighbours_links]
     neighbours_names = ', '.join(neighbours)
 
-    # Retornando os dados extraídos
     return {
         'country': country_name,
         'currency': currency_name,
@@ -106,17 +104,17 @@ def get_neighbour_name(neighbour_url):
 
 
 def write_csv():
-    # Abre o arquivo CSV para leitura e escrita
     with open(CSV_FILE, mode='w') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=['country', 'currency', 'continent', 'neighbours', 'timestamp'],
                                 delimiter=';')
-        # Cabeçalho
+        # cabecalho
         writer.writeheader()
 
         for i in range(len(COUNTRY_DATA)):
             writer.writerow(COUNTRY_DATA[i])
 
 
+# verifica se os dados sao diferentes, posteriormente so adiciona se mudou
 def is_different(existing_row, new_data):
     data_to_check = ['country', 'currency', 'continent', 'neighbours']
     for field in data_to_check:
@@ -129,7 +127,7 @@ def main():
     index = 0
     while True:
         index_url = INDEX_URL + str(index)
-        print('Navegando para o índice: ' + index_url)
+        print('navegando no indice: ' + index_url)
         if process_country_pages(index_url):
             write_csv()
             break

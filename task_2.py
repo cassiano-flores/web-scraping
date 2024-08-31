@@ -1,33 +1,31 @@
-# coding=utf-8
 import io
 import json
-import os
 import requests
 from collections import OrderedDict
 from bs4 import BeautifulSoup
 
 BASE_URL = 'https://www.imdb.com'
 CALENDAR_URL = BASE_URL + '/calendar/'
+JSON_FILE = 'movies_data.json'
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"}
-JSON_FILE = 'movies_data.json'
-FILE_EXISTS = os.path.isfile(JSON_FILE)
 
 
 def get_movies_data(releases_url):
     response = requests.get(releases_url, headers=HEADERS)
 
-    # Procurando o JSON na resposta (simplesmente usando split para extrair)
+    # proccura json na resposta (nao deu pra utilizar soup direto)
     json_start = response.text.find('{"props"')
     json_end = response.text.find('</script>', json_start)
     json_data = response.text[json_start:json_end]
 
-    # Carregando o JSON em um objeto Python
+    # carrega json
     data = json.loads(json_data)
 
-    # Navegando pelo JSON para extrair os dados dos filmes
+    # navega pelo json e extrai os dados dos filmes
     movies_data = []
     for group in data['props']['pageProps']['groups']:
+        # obtem os dados dos filmes, primeiro passo
         for entry in group['entries']:
             movie = {
                 "title": entry['titleText'],
@@ -35,12 +33,14 @@ def get_movies_data(releases_url):
                 "release_date": entry['releaseDate'],
                 "link": "https://www.imdb.com/title/" + entry['id']
             }
+            # obtem os detalhes do filme, segundo passo
             movie_details = get_movie_details(movie['link'])
             movie.update(movie_details)
 
-            # Adiciona o dicionário atualizado à lista de filmes
+            # adiciona ao dicionario ja com detalhes (diretor e atores)
             movies_data.append(movie)
 
+    # ordena propriedades
     key_order = ['title', 'release_date', 'link', 'genres', 'directors', 'cast']
     ordered_movies_data = [
         OrderedDict((key, movie[key]) for key in key_order)
@@ -51,19 +51,21 @@ def get_movies_data(releases_url):
 
 
 def get_movie_details(movie_url):
+    print('acessando: ' + movie_url)
     response = requests.get(movie_url, headers=HEADERS)
     soup = BeautifulSoup(response.content, 'html.parser')
 
-    # Extrai o(s) nome(s) do(s) diretor(es)
+    # extrai diretores
     directors = []
     for director in soup.find_all('a', href=lambda href: href and 'tt_ov_dr' in href):
         directors.append(director.text.strip())
 
-    # Extrai os principais atores (cast)
+    # extrai principais atores
     cast = []
     for actor in soup.find_all('a', href=lambda href: href and 'tt_cl_t' in href)[:5]:
         cast.append(actor.text.strip())
 
+    # remove duplicados
     directors = list(set(directors))
     cast = list(set(cast))
 
